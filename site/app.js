@@ -412,15 +412,19 @@
     rb.addEventListener("click", function () { goTo(saved); });
   }
 
-  /* a shared link like /#n24 opens on that note */
-  if (/^#n\d+$/.test(location.hash)) {
+  /* a shared link like /#n24 opens on that note. Run it again once the fonts
+     have landed, because the notes are taller before they load. */
+  function jumpToHash() {
+    if (!/^#n\d+$/.test(location.hash)) return;
     var want = parseInt(location.hash.slice(2), 10) - 1;
-    if (want >= 0 && want < NOTES.length) {
-      requestAnimationFrame(function () {
-        window.scrollTo({ top: slots[want].getBoundingClientRect().top + window.scrollY - 74, behavior: "auto" });
-      });
-    }
+    if (want < 0 || want >= NOTES.length) return;
+    window.scrollTo({ top: slots[want].getBoundingClientRect().top + window.scrollY - 74, behavior: "auto" });
+    request();
   }
+
+  requestAnimationFrame(jumpToHash);
+  addEventListener("load", function () { setTimeout(jumpToHash, 60); });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { setTimeout(jumpToHash, 40); });
 
   request();
 })();
