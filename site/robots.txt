@@ -1,0 +1,5 @@
+# https://brotobro.hamcodes.com/robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://brotobro.hamcodes.com/sitemap.xml

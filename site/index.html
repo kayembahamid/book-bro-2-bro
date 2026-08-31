@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Bro 2 Bro — the notes</title>
+<meta name="description" content="Bro, Nobody Told Me. Life after school, one note at a time. The stuff nobody explains before you have to figure it out the hard way. By Hamcodes." />
+<link rel="canonical" href="https://brotobro.hamcodes.com/" />
+<meta name="theme-color" content="#160710" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Bro 2 Bro" />
+<meta property="og:title" content="Bro 2 Bro — the notes" />
+<meta property="og:description" content="Life after school, one note at a time. Read the whole book as floating notes, or open it in book format." />
+<meta property="og:url" content="https://brotobro.hamcodes.com/" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%234a0f1c'/><rect x='7' y='6' width='18' height='20' rx='2' fill='%23f3e9db'/><rect x='10' y='11' width='12' height='1.6' fill='%23b2323f'/><rect x='10' y='15' width='12' height='1.6' fill='%23c9b6a2'/><rect x='10' y='19' width='8' height='1.6' fill='%23c9b6a2'/></svg>" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<!-- notes drifting in the dark behind everything -->
+<div class="drift" id="drift" aria-hidden="true"></div>
+<div class="grain" aria-hidden="true"></div>
+
+<header class="bar" id="bar">
+  <a class="bar-brand" href="#top">
+    <span class="bar-mark"></span>
+    <span>Bro 2 Bro</span>
+  </a>
+  <div class="bar-where" id="barWhere" aria-live="polite"></div>
+  <div class="bar-acts">
+    <button class="btn btn-ghost" id="tocBtn" aria-expanded="false" aria-controls="toc">Contents</button>
+    <a class="btn btn-solid" href="https://hamcodes.gitbook.io/bro-to-bro" target="_blank" rel="noopener"><span class="wide">Read as a book</span><span class="narrow">Book</span></a>
+  </div>
+  <div class="bar-rail"><i id="barFill"></i></div>
+</header>
+
+<main id="top">
+
+  <section class="hero">
+    <p class="hero-eyebrow">Hamcodes <span>·</span> K.H</p>
+    <h1 class="hero-title">Bro,<br />nobody told me.</h1>
+    <p class="hero-sub">Life after school. The stuff I wish someone had explained before I had to figure it out the hard way.</p>
+    <p class="hero-note" id="heroToday"></p>
+    <div class="hero-acts">
+      <button class="btn btn-solid btn-lg" id="startBtn">Start reading</button>
+      <button class="btn btn-ghost btn-lg" id="resumeBtn" hidden></button>
+      <a class="btn btn-ghost btn-lg" href="https://hamcodes.gitbook.io/bro-to-bro" target="_blank" rel="noopener">Read in book format</a>
+    </div>
+    <p class="hero-meta" id="heroMeta"></p>
+    <div class="hero-scroll" aria-hidden="true"><span></span></div>
+  </section>
+
+  <div id="river"></div>
+
+  <section class="end">
+    <p class="end-stamp">That's the last note</p>
+    <h2 class="end-title">Now go live some of it.</h2>
+    <p class="end-body">You read the whole thing the way it was written, one conversation at a time. If you want it as a book you can keep on your phone, it is all in there too.</p>
+    <div class="hero-acts">
+      <a class="btn btn-solid btn-lg" href="https://hamcodes.gitbook.io/bro-to-bro" target="_blank" rel="noopener">Open the book</a>
+      <button class="btn btn-ghost btn-lg" id="topBtn">Back to the first note</button>
+    </div>
+    <p class="end-sign">Hamcodes (K.H) <span>·</span> <a href="https://hamcodes.com" target="_blank" rel="noopener">hamcodes.com</a></p>
+  </section>
+
+</main>
+
+<nav class="rail" id="rail" aria-label="Chapters"></nav>
+
+<div class="toc" id="toc" hidden>
+  <div class="toc-panel" role="dialog" aria-modal="true" aria-label="Contents">
+    <div class="toc-head">
+      <p class="toc-kicker">Contents</p>
+      <button class="btn btn-ghost btn-sm" id="tocClose">Close</button>
+    </div>
+    <div class="toc-list" id="tocList"></div>
+  </div>
+</div>
+
+<noscript>
+  <div class="nojs">
+    <p>This page animates the book's notes with JavaScript. With it switched off, read the book here:</p>
+    <p><a href="https://hamcodes.gitbook.io/bro-to-bro">hamcodes.gitbook.io/bro-to-bro</a></p>
+  </div>
+</noscript>
+
+<script src="notes.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
