@@ -12,7 +12,7 @@
 * [Read it via an App](introduction/read-it-via-an-app.md)
 * [Table of Contents](introduction/table-of-contents.md)
 
-## PART 1 :  START WITH YOURSELF
+## PART 1 : START WITH YOURSELF
 
 * [Chapter 1 : You Don’t Need To Know Everything Yet](part-1-start-with-yourself/chapter-1-you-dont-need-to-know-everything-yet/README.md)
   * [Find The Next Step](part-1-start-with-yourself/chapter-1-you-dont-need-to-know-everything-yet/find-the-next-step.md)
@@ -55,11 +55,11 @@
 
 ## PART 3 : LEARN WHAT MONEY IS REALLY DOING
 
-* [Chapter 7 :  Where Did My Money Go?](part-3-learn-what-money-is-really-doing/chapter-7-where-did-my-money-go/README.md)
+* [Chapter 7 : Where Did My Money Go?](part-3-learn-what-money-is-really-doing/chapter-7-where-did-my-money-go/README.md)
   * [The Phone Was Fine Yesterday](part-3-learn-what-money-is-really-doing/chapter-7-where-did-my-money-go/the-phone-was-fine-yesterday.md)
   * [Every Dollar Needs A Job](part-3-learn-what-money-is-really-doing/chapter-7-where-did-my-money-go/every-dollar-needs-a-job.md)
   * [Money Creates Options](part-3-learn-what-money-is-really-doing/chapter-7-where-did-my-money-go/money-creates-options.md)
-* [Chapter 8 :  People Pay To Make Problems Go Away](part-3-learn-what-money-is-really-doing/chapter-8-people-pay-to-make-problems-go-away/README.md)
+* [Chapter 8 : People Pay To Make Problems Go Away](part-3-learn-what-money-is-really-doing/chapter-8-people-pay-to-make-problems-go-away/README.md)
   * [The Problem Comes First](part-3-learn-what-money-is-really-doing/chapter-8-people-pay-to-make-problems-go-away/the-problem-comes-first.md)
   * [Most Things Already Exist](part-3-learn-what-money-is-really-doing/chapter-8-people-pay-to-make-problems-go-away/most-things-already-exist.md)
   * [The Result Is What Matters](part-3-learn-what-money-is-really-doing/chapter-8-people-pay-to-make-problems-go-away/the-result-is-what-matters.md)
@@ -88,8 +88,6 @@
   * [Sometimes Letting Go Is Love Too](part-4-learn-how-to-deal-with-people/chapter-10-love-is-not-a-life-plan/sometimes-letting-go-is-love-too.md)
 
 ## PART 5 : BECOME SOMEONE YOU RESPECT
-
-***
 
 * [Who Are You Becoming?](who-are-you-becoming.md)
 * [What kind of person did I become?](what-kind-of-person-did-i-become.md)

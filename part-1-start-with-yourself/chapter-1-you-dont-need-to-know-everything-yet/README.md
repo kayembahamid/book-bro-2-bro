@@ -49,7 +49,7 @@ I don't think school prepares us for that question.
 
 School teaches you how to pass tests. How to write essays. How to solve equations.
 
-But nobody really sits you down and explains how to build a life.
+But no one really sits you down and explains how to build a life.
 
 You hear things like:
 

@@ -23,7 +23,7 @@ The product matters. But the result matters more.
 
 When I finished writing a book, I cared about every chapter I'd rewritten five times. The reader just wanted to know one thing. Will this help me?
 
-Nobody buys a drill because they love drills. They want a hole in the wall. Nobody joins a gym because they love gym memberships. They want to feel healthier. Nobody buys software because they enjoy software. They want their work to become easier.
+No one buys a drill because they love drills. They want a hole in the wall. People don't join a gym because they love gym memberships. They want to feel healthier. Nobody buys software for the software. They want their work to get easier.
 
 That lesson applies beyond business. In your career, people don't only care what skills you have. They care what those skills help them solve. In your work, people don't only care how busy you are. They care what you actually deliver. In life, people don't only remember what you said you wanted to do. They remember what changed because you showed up.
 

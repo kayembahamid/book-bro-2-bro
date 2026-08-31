@@ -19,9 +19,7 @@ I sent out applications. Then waited. Nothing. No replies. No interviews. No cal
 
 At first, I was frustrated. I kept checking my email. Refreshing my inbox. Wondering why nobody was responding.
 
-Then it hit me. Nobody knew who I was.
-
-Nobody was sitting in an office looking for Ham. Nobody was searching for my CV.
+Then it hit me. No one knew who I was. There was no office somewhere with a person looking for Ham, digging through CVs for my name.
 
 I was the one looking for opportunities. Which meant I had to go and find them.
 

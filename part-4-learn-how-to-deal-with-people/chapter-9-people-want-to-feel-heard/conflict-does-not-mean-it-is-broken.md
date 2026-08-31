@@ -19,7 +19,7 @@ Different goals create friction. You want to save money. Your friend wants to go
 
 Nobody has to be evil for conflict to appear. Sometimes people simply want different things. That doesn't mean something is broken. It usually means real people are involved.
 
-A life with no conflict would mean nobody had opinions. Nobody had preferences. Nobody had needs. Nobody had boundaries. Nobody cared about anything enough to speak up. That's not real life.
+A life with no conflict would mean no one had opinions, preferences, needs or boundaries. It would mean nobody cared about anything enough to speak up. That's not real life.
 
 Every friendship. Every family. Every workplace. Every relationship. Eventually meets conflict.
 
