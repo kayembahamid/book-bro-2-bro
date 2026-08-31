@@ -49,7 +49,7 @@ I don't think school prepares us for that question.
 
 School teaches you how to pass tests. How to write essays. How to solve equations.
 
-But no one really sits you down and explains how to build a life.
+But no one sits you down and explains how to build a life.
 
 You hear things like:
 
@@ -77,7 +77,7 @@ But because life gets a little easier when you know what kind of person you're t
 
 I'm not going to tell you exactly what to do.
 
-I can't. Nobody can.
+I can't. No one can.
 
 But I can help you think. About direction. About choices. About the pressure to figure everything out too early.
 
@@ -85,4 +85,4 @@ Because you don't need to know everything yet.
 
 You just need to start paying attention to where you're going.
 
-And trust me. Almost nobody has it all figured out.
+And trust me. Almost no one has it figured out.

@@ -13,7 +13,7 @@ At some point, the words start sounding better than the behavior.
 
 That's a painful place to be. Because not every problem means a relationship is broken. But not every relationship can be saved either. The hard part is learning the difference.
 
-Nobody gets everything right. Not you. Not your partner. Not anybody. People make mistakes. Forget things. Say the wrong thing. Get stressed. Become emotional. Have bad days.
+No one gets everything right. Not you, not your partner, not anybody. People make mistakes. Forget things. Say the wrong thing. Get stressed. Become emotional. Have bad days.
 
 If every mistake ended a relationship, no relationship would survive. Healthy relationships need forgiveness. Patience. Understanding. The ability to see another person's side.
 

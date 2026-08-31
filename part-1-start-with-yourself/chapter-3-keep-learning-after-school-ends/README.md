@@ -49,4 +49,4 @@ Honestly, that's when it really begins.
 
 The books you read. The skills you build. The mistakes you learn from. The conversations you pay attention to.
 
-The person you become over the next ten years will be shaped by what you choose to learn after nobody is giving you homework anymore.
+The person you become over the next ten years will be shaped by what you choose to learn after the homework stops.

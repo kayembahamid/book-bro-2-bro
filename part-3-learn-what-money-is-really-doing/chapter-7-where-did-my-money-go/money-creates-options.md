@@ -13,7 +13,7 @@ The answers come quickly.
 
 But the interesting part isn't the money. It's what the answers reveal.
 
-Nobody is really asking for paper. Nobody is excited because of numbers sitting in an account.
+No one wants the paper. Nobody gets excited about a number sitting in an account.
 
 What they want is what the money can do. Freedom. Security. Choices. Experiences. Time.
 

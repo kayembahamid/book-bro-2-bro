@@ -5,13 +5,13 @@ icon: book
 
 # Chapter 4 : Put Yourself Where Opportunity Can See You
 
-### Nobody Knows Who You Are Yet.
+### No One Knows Who You Are Yet.
 
 You can be talented and still invisible.
 
 That's one of the first hard lessons after school.
 
-You may have skills. You may be serious. You may be ready to work. But if nobody knows what you can do, the world doesn't automatically come looking for you.
+You may have skills. You may be serious. You may be ready to work. But if no one knows what you can do, the world doesn't come looking for you.
 
 I learned that when I started applying for my first jobs.
 

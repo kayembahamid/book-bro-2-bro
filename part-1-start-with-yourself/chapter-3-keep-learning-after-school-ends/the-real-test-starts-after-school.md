@@ -7,11 +7,17 @@ icon: gears
 
 The tests don't stop after school. They just stop looking like tests.
 
-Nobody hands you an exam paper. Nobody tells you which chapter to study. Nobody says: "This will be on the final."
+No one hands you an exam paper or tells you what to study. Nothing gets announced as "this will be on the final."
 
 But life still asks questions.
 
-Can you solve problems? Can you communicate? Can you learn when nobody is forcing you? Can you adjust when things change?
+Can you solve problems?&#x20;
+
+Can you communicate?&#x20;
+
+Can you learn when no one is making you?&#x20;
+
+Can you adjust when things change?
 
 That's one of the biggest surprises after school.
 
@@ -41,4 +47,4 @@ Learning is important. But learning alone isn't enough. A lot of young people st
 
 Unfortunately, the world rarely works that way.
 
-And that's the next problem. Nobody knows who you are yet.
+And that's the next problem. No one knows who you are yet.

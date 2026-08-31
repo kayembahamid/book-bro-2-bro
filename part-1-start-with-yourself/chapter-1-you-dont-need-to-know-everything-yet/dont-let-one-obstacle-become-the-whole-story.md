@@ -37,7 +37,7 @@ Most of the time, it isn't. We just stop looking for another way.
 
 And the fastest way past most obstacles? Usually, it's asking.
 
-Nobody figures everything out alone. I didn't.
+No one figures it out alone. I didn't.
 
 Most of what I know came from other people. Teachers. Books. Mentors. Friends. People online I've never even met.
 
