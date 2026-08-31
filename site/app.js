@@ -192,18 +192,21 @@
   /* ----------------------------------------------------------- background */
 
   var ghosts = [];
+  var GHOSTS = 14;
   if (!reduce) {
     var drift = document.getElementById("drift");
-    for (var g = 0; g < 12; g++) {
+    for (var g = 0; g < GHOSTS; g++) {
       var n = el("div", "ghost");
       var seed = {
         x: (g * 37) % 100,
-        y: (g * 53) % 100,
+        /* spread evenly down a band taller than the screen, so when one
+           wraps off the top another is already coming up from below */
+        lane: g / GHOSTS,
         depth: 0.25 + ((g % 4) * 0.22),
         rot: ((g * 41) % 24) - 12
       };
       n.style.left = seed.x + "vw";
-      n.style.top = seed.y + "vh";
+      n.style.top = "0";
       n.style.setProperty("--rot", seed.rot + "deg");
       n.style.opacity = String(0.10 + seed.depth * 0.16);
       drift.appendChild(n);
@@ -301,11 +304,14 @@
     });
 
     if (!reduce) {
-      var gy = y * 0.06;
+      /* The band is taller than the screen and the notes wrap around it, so
+         they keep coming up from below however far down the book you are. */
+      var band = vh + 420;
       ghosts.forEach(function (g, i) {
         var d = g.seed.depth;
         var dx = mx * 46 * d + Math.sin((y * 0.0012) + i) * 12 * d;
-        var dy = -gy * (0.4 + d) + my * 34 * d;
+        var travel = g.seed.lane * band - y * 0.06 * (0.4 + d) + my * 34 * d;
+        var dy = ((travel % band) + band) % band - 210;
         g.node.style.transform = "translate3d(" + dx.toFixed(1) + "px," + dy.toFixed(1) +
           "px,0) rotate(var(--rot))";
       });
