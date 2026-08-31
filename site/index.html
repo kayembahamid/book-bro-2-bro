@@ -33,6 +33,7 @@
   <div class="bar-where" id="barWhere" aria-live="polite"></div>
   <div class="bar-acts">
     <button class="btn btn-ghost" id="tocBtn" aria-expanded="false" aria-controls="toc">Contents</button>
+    <button class="btn btn-ghost" id="langBtn" aria-expanded="false" aria-controls="lang" title="Read this in your language"><span class="wide">Language</span><span class="narrow" aria-hidden="true">🌐</span><span class="sr">Language</span></button>
     <a class="btn btn-solid" href="https://hamcodes.gitbook.io/bro-to-bro" target="_blank" rel="noopener"><span class="wide">Read as a book</span><span class="narrow">Book</span></a>
   </div>
   <div class="bar-rail"><i id="barFill"></i></div>
@@ -70,6 +71,46 @@
 </main>
 
 <nav class="rail" id="rail" aria-label="Chapters"></nav>
+
+<div class="sheet" id="lang" hidden>
+  <div class="sheet-panel" role="dialog" aria-modal="true" aria-labelledby="langTitle">
+    <p class="note-kicker">Language</p>
+    <h2 class="sheet-title" id="langTitle">Read this in the language you understand best</h2>
+    <p class="sheet-body">Every note on this page is real text, so your phone or computer can translate all of it. It takes about ten seconds and you only do it once.</p>
+
+    <div class="sheet-steps">
+      <div>
+        <h3>iPhone</h3>
+        <ol>
+          <li>Open this page in Safari.</li>
+          <li>Tap the <b>aA</b> button in the address bar.</li>
+          <li>Tap <b>Translate Website</b>.</li>
+          <li>Choose your language.</li>
+        </ol>
+      </div>
+      <div>
+        <h3>Android</h3>
+        <ol>
+          <li>Open this page in Chrome.</li>
+          <li>Tap the three dots in the corner.</li>
+          <li>Tap <b>Translate</b>.</li>
+          <li>Choose your language.</li>
+        </ol>
+      </div>
+      <div>
+        <h3>Computer</h3>
+        <ol>
+          <li>Right click anywhere on the page.</li>
+          <li>Choose <b>Translate to...</b></li>
+          <li>Pick your language.</li>
+        </ol>
+      </div>
+    </div>
+
+    <p class="sheet-foot">The goal is not to struggle through English. The goal is to understand the lessons.</p>
+    <button class="btn btn-solid" id="langClose">Close</button>
+  </div>
+</div>
 
 <div class="toc" id="toc" hidden>
   <div class="toc-panel" role="dialog" aria-modal="true" aria-label="Contents">

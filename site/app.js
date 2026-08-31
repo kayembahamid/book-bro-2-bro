@@ -161,6 +161,7 @@
   var railButtons = Array.prototype.slice.call(rail.children);
 
   function openToc() {
+    closeLang();
     toc.hidden = false;
     document.getElementById("tocBtn").setAttribute("aria-expanded", "true");
     var here = tocButtons[current];
@@ -175,6 +176,18 @@
   });
   document.getElementById("tocClose").addEventListener("click", closeToc);
   toc.addEventListener("click", function (e) { if (e.target === toc) closeToc(); });
+
+  /* ------------------------------------------------------------- language */
+
+  var lang = document.getElementById("lang");
+  var langBtn = document.getElementById("langBtn");
+
+  function openLang() { closeToc(); lang.hidden = false; langBtn.setAttribute("aria-expanded", "true"); }
+  function closeLang() { lang.hidden = true; langBtn.setAttribute("aria-expanded", "false"); }
+
+  langBtn.addEventListener("click", function () { lang.hidden ? openLang() : closeLang(); });
+  document.getElementById("langClose").addEventListener("click", closeLang);
+  lang.addEventListener("click", function (e) { if (e.target === lang) closeLang(); });
 
   /* ----------------------------------------------------------- background */
 
@@ -345,7 +358,11 @@
     var tag = (e.target.tagName || "").toLowerCase();
     if (tag === "input" || tag === "textarea") return;
 
-    if (e.key === "Escape" && !toc.hidden) { closeToc(); return; }
+    if (e.key === "Escape") {
+      if (!toc.hidden) { closeToc(); return; }
+      if (!lang.hidden) { closeLang(); return; }
+    }
+    if (e.key === "l" || e.key === "L") { lang.hidden ? openLang() : closeLang(); e.preventDefault(); return; }
     if (e.key === "c" || e.key === "C") { toc.hidden ? openToc() : closeToc(); e.preventDefault(); return; }
     if (e.key === "ArrowDown" || e.key === "j" || e.key === "PageDown") { goTo(current + 1); e.preventDefault(); }
     else if (e.key === "ArrowUp" || e.key === "k" || e.key === "PageUp") { goTo(current - 1); e.preventDefault(); }
