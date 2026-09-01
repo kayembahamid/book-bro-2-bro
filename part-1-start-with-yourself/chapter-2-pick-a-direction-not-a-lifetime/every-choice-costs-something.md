@@ -9,37 +9,27 @@ Social media shows you the reward.
 
 Not the receipt.
 
-You see the YouTube channel with a million subscribers. You don't see the hundreds of videos nobody watched.
+You see the channel with a million subscribers. You don't see the hundreds of videos nobody watched. You see the business working, not the years it took. You see the result, not the sacrifice.
 
-You see the business working. Not the years it took to build.
+And if you're not careful you start wanting the reward without ever pricing it.
 
-You see the result. Not the sacrifice.
+I've fallen into that myself. When I started writing books I spent a lot of time picturing the finished thing. Holding it. My name on the cover. Helping someone. Making something that might outlast me.
 
-And if you're not careful, you start wanting the reward without thinking about the price.
-
-And honestly? I've fallen into that trap myself.
-
-When I started writing books, I spent a lot of time thinking about the finished product. Holding the book. Seeing my name on the cover. Helping people. Creating something that might still be around long after I'm gone.
-
-What I didn't think about as much was the cost. The late nights. The weekends. The self-doubt. The time I could have spent doing something easier.
+What I didn't picture was the cost. The late nights. The weekends. The self-doubt. The easier things I could have been doing instead.
 
 Nobody posts that part.
 
-One of my colleagues at work once talked about starting a business.
+A colleague once told me he was thinking of starting a business. So I asked him: "What are you willing to give up?"
 
-So I asked him: "What are you willing to give up?"
+He looked confused. Nobody had asked him that.
 
-He looked confused.
+We all think about what we want to gain. Almost none of us think about what it takes.
 
-A lot of us think about what we want to gain. Very few of us think about what it will cost.
+Every path costs something. Time. Comfort. Sometimes relationships.
 
-But every path costs something. Time. Effort. Comfort. Certainty. Attention. Energy. Sometimes even relationships.
+That doesn't make the path wrong. It just means it has a price.
 
-That doesn't mean the path is wrong. It just means the path has a price.
-
-Choosing a direction isn't only asking: "What do I get?"
-
-It's also asking: "What am I willing to pay?"
+Choosing a direction isn't only asking "what do I get?" It's asking "what am I willing to pay?"
 
 Because every choice costs something. Even doing nothing.
 

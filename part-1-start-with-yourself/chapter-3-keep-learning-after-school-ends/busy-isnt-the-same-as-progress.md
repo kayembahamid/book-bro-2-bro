@@ -7,32 +7,24 @@ icon: arrow-down-small-big
 
 Some days disappear without leaving anything behind.
 
-You were busy. You answered messages. Watched a few videos. Scrolled a little. Did a few small tasks. Moved from one thing to another.
+You were busy. Answered messages. Watched a few videos. Scrolled. Did some small tasks. Moved from one thing to the next.
 
-Then night comes, and you ask yourself: "What did I actually do today?"
+Then it's night and you're asking yourself what you actually did today.
 
-That's when you realize being busy isn't the same as making progress.
+"Teacher, I didn't have time." I've heard that hundreds of times.
 
-One of the most common things students say is: "Teacher, I didn't have time."
+So one day I ask a student to walk me through his yesterday. A little social media. A few videos. Some gaming. Messages. More scrolling. A few more videos.
 
-I've heard it hundreds of times.
+Hours, gone.
 
-So one day I asked a student: "What did you do yesterday?"
+He was busy the entire day. Busy with things that mattered to nobody, including him.
 
-We started going through his day. A little social media. A few videos. Some gaming. Messages. More scrolling. A few more videos.
+I've caught myself doing the same. Days where I'm teaching, writing, learning, answering emails, working on projects, and I'm wrecked by the evening. And I still hadn't touched the thing that mattered most.
 
-And suddenly, a lot of hours had disappeared.
+Busy and productive aren't the same. We all get twenty-four hours. The difference is what we point them at.
 
-He was busy the whole day. Just busy doing things that weren't important to him.
+So now I ask myself one question: what's the most important thing I need to do in the next hour?
 
-I've caught myself doing the same thing. There have been days when I felt incredibly busy. Teaching. Writing. Learning. Answering emails. Working on projects. By the end of the day, I was exhausted.
+Not five things. Not ten. One. Start there.
 
-But sometimes I hadn't made progress on the thing that mattered most.
-
-Busy and productive aren't the same thing. We all get twenty-four hours. The difference is what we do with them.
-
-So now I try to ask myself a simple question: "What's the most important thing I need to do in the next hour?"
-
-Not five things. Not ten things. One. Start there.
-
-Because what we spend time on eventually becomes our life.
+What you spend time on becomes your life.

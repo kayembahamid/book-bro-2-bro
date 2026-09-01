@@ -5,38 +5,38 @@ icon: eye-low-vision
 
 # Reality Is Where Love Lives
 
-#### Believe Patterns, Not Promises
-
 Some relationships spend too much time living in the future.
 
-Things will be better when we graduate. Things will be better when we move. Things will be better when we have more money. Things will be better when they change.
+Things will be better when we graduate. When we move. When we have more money. When they change.
 
-But the relationship is happening now. And now still matters.
+But the relationship is happening now, and now still counts.
 
-That's where people can get stuck. They stop looking at what's happening in front of them. And start building a relationship with what they hope will happen later.
+That's where people get stuck. They stop looking at what's in front of them and start building with what they hope arrives later.
 
-That's a dangerous place to live. Because it's possible to fall in love with potential. Who someone could become. How they might change. The future they keep describing. The version of them you keep hoping will appear.
+It's possible to fall in love with potential. Who someone could become. How they might change. The future they keep describing. The version of them you keep waiting for.
 
-A relationship is built with the person standing in front of you. The person you're actually with. The person who keeps showing you patterns.
+A relationship is built with the person standing in front of you. The one you're actually with. The one who keeps showing you patterns.
 
-Everybody makes mistakes. Everybody has bad days. Everybody has things they're working on. That's normal. But patterns matter.
+Everybody makes mistakes. Everybody has bad days. Everybody has things they're working on. That's normal.
 
-How does this person treat you when they're frustrated? How do they handle responsibility? How do they speak when they're angry? How do they deal with conflict? How do they respond when things don't go their way?
+Patterns are different.
 
-Character usually reveals itself through patterns. Not speeches. Not apologies repeated every week. Not promises made after every argument. Patterns.
+How does this person treat you when they're frustrated? How do they handle responsibility? How do they speak when they're angry? How do they respond when things don't go their way?
 
-That's why warning signs matter. Dishonesty. Disrespect. Manipulation. Jealousy. Controlling behavior. Lack of responsibility. Poor communication.
+Character shows itself in patterns. Not speeches. Not apologies repeated every week. Not promises made after every argument.
 
-Most red flags don't look huge in the beginning. They look small enough to explain away. So people explain them away. Minimize them. Hope they disappear. But ignored problems rarely get smaller. They usually become more expensive with time.
+Which is why warning signs matter. Dishonesty. Disrespect. Manipulation. Jealousy. Controlling behavior. Poor communication.
 
-One of the hardest things to admit is that a relationship isn't healthy. Especially when you still care about the person. Especially when you remember the good moments. Especially when part of you still hopes things will change.
+Most red flags don't look big at the start. They look small enough to explain away, so people explain them away. Minimize them. Hope they shrink. Ignored problems rarely shrink. They get more expensive.
 
-Hope can keep people in places they already know are hurting them.
+One of the hardest things to admit is that a relationship isn't healthy. Especially when you still care. Especially when you remember the good parts. Especially when some of you still hopes.
+
+Hope can keep people somewhere they already know is hurting them.
 
 Love is what someone keeps showing you.
 
-Healthy relationships are built on reality. Not fantasy. Not promises. Not potential alone. Potential matters. But behavior matters more. Character matters more. Patterns matter more.
+Healthy relationships are built on reality. Potential matters. Behavior matters more. Character matters more. Patterns matter more.
 
-Because the person you're with today is the person you're actually building with. Not the person you hope they might become someday.
+Because the person you're with today is the one you're actually building with. Not the one you hope turns up eventually.
 
 Believe patterns. Not promises.

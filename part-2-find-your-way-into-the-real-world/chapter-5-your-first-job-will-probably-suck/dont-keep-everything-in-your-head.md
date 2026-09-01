@@ -5,27 +5,23 @@ icon: screenpal
 
 # Don’t Keep Everything In Your Head
 
-Work teaches you very quickly that your brain isn't a storage room.
+Work teaches you fast that your brain isn't a storage room.
 
-You can try to keep everything in there. Tasks. Names. Deadlines. Messages. Promises.
+You can try to keep it all in there. Tasks. Names. Deadlines. Messages. Promises. But the more you carry, the more starts falling off the shelf.
 
-But the more responsibility you carry, the more things start falling off the shelf.
+One of my first jobs had far more moving parts than I expected. Calls. Messages. Deadlines. Requests.
 
-One of my first jobs involved far more tasks than I expected. Calls. Messages. Deadlines. Problems. Requests.
+I tried remembering everything. That worked for about three days.
 
-At first, I tried remembering everything. That worked for about three days.
+Then things started slipping. A missed task here. A forgotten email there. Nothing dramatic, but enough to cause problems.
 
-Then things started slipping through the cracks. A missed task here. A forgotten email there. Nothing major. But enough to create problems.
+That's when I understood it properly. Your brain is for thinking. Not for holding a hundred reminders.
 
-That was the first time I understood this properly. Your brain is for thinking. Not storing endless reminders.
+Which is why reliable people build systems. Notes. Calendars. Checklists.
 
-The more responsibility you have, the harder it becomes to keep everything in your head. Memory has limits.
+Not because their memory is bad. Because they don't want small promises to quietly disappear.
 
-That's why reliable people build systems. Notes. Calendars. Checklists. Reminders.
-
-Not because they have bad memories. Because they don't want small responsibilities to disappear.
-
-Work teaches you this quickly. You're not trusted only because you're talented. You're trusted because what matters doesn't keep getting lost with you. Or at least because you build a system that helps you keep track of it.
+You don't get trusted only for being talented. You get trusted because things don't get lost with you.
 
 People rely on the ones who write things down.
 

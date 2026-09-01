@@ -5,30 +5,30 @@ icon: people
 
 # Friendships Don’t Stay The Same
 
-Not everyone who enters your life will stay there.
+Not everyone who comes into your life stays there.
 
-That can be hard to accept. Some people are important for a season. Some grow with you. Some drift. Some come back later. And some become memories you still appreciate, even if life moved on.
+That's hard to accept. Some people matter for a season. Some grow alongside you. Some drift. Some come back years later. Some become memories you're still glad about.
 
-Friendships feel easier when life keeps placing you in the same room. Same class. Same school. Same neighborhood. Same weekend plans. Same faces every year. You don't have to think much about it. Life does most of the work.
+Friendship is easy while life keeps putting you in the same room. Same class. Same school. Same neighborhood. Same faces every weekend. You barely have to think about it. Life does the work.
 
-Then things change. People move. Change jobs. Start families. Get busy. Develop new priorities. And friendships that once felt effortless suddenly require effort. Not because anybody did anything wrong. Because life changed.
+Then it changes. People move. Change jobs. Start families. Get busy. And friendships that took no effort suddenly take effort. Not because anyone did anything wrong. Because life moved.
 
-Some friendships grow stronger. Some grow weaker. Some disappear completely. Some surprise you and become more important than ever.
+Some grow stronger. Some fade. Some disappear. Some surprise you and become more important than they ever were.
 
-At first, that can feel sad. Especially when you realize that caring about someone doesn't always mean they'll stay close forever.
+That can feel sad at first, especially when you realize caring about someone doesn't guarantee they stay close.
 
 People change. Circumstances change. You change.
 
-The friendships that survive are the ones someone kept up. A message. A phone call. A visit. A message. A phone call. A visit. A conversation. A small effort repeated over time.
+The friendships that survive are the ones somebody kept up. A message. A phone call. A visit. A small effort repeated over years.
 
-Friendships don't usually disappear all at once. They fade quietly. One missed message. One cancelled plan. One busy month. One life change. Then another.
+They don't usually end in one go. They fade. One missed message. One cancelled plan. One busy month. Then another.
 
-No one has to hate anybody. Life just starts pulling people in different directions. That doesn't mean the friendship wasn't real. It means relationships need care if they're going to keep growing.
+Nobody has to hate anybody. Life just pulls people in different directions. That doesn't mean the friendship wasn't real. It means relationships need care to keep growing.
 
-Small things matter. Checking in. Remembering. Showing up. Making time. Saying: "I still care."
+Small things matter. Checking in. Remembering. Showing up. Making time. Saying "I still care."
 
-Because friendships don't stay the same. They either grow stronger. Or slowly drift apart. And the difference is often found in the things that seem too small to matter.
+Friendships don't stay the same. They either grow or they drift, and the difference is usually in the things that look too small to matter.
 
-Then, before you realize it, another type of relationship enters the picture. One that teaches many of the same lessons in completely different ways.
+Then, before you notice, another kind of relationship walks in. One that teaches most of the same lessons in a completely different way.
 
 Love.

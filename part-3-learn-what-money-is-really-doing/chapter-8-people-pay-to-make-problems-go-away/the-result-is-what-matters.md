@@ -5,28 +5,24 @@ icon: cart-arrow-down
 
 # The Result Is What Matters
 
-#### The Result Is The Point
+The person buying doesn't care how hard you worked.
 
-The person buying doesn't always care how hard you worked.
+That feels unfair. You spent months building it. Fixing it. Changing small details nobody will ever see.
 
-That can feel unfair. You spent months building the thing. Fixing it. Improving it. Changing small details.
+But the person on the other side is asking one question. What changes for me?
 
-But the person on the other side is usually asking one question: "What changes for me?"
+That took me time. When you build something, every detail starts feeling important. The website. The product. The course. You know what had to be fixed. You know what took three times longer than planned.
 
-That took me time to understand. When you build something, every detail starts to feel important. The website. The product. The software. The course. The service.
+The person using it cares about something else entirely. Not how it works. What it does for them. More time. Less stress. More customers. A problem finally gone.
 
-You know how much work went into it. You know what had to be fixed. You know what took longer than expected.
+The product matters. The result matters more.
 
-But the person using it may care about something completely different. Not how it works. What it does for them. More time. Less stress. More customers. Better results. A simpler life. A problem finally solved.
-
-The product matters. But the result matters more.
-
-When I finished writing a book, I cared about every chapter I'd rewritten five times. The reader just wanted to know one thing. Will this help me?
+When I finished writing a book I cared about every chapter I'd rewritten five times. The reader wanted to know one thing. Will this help me?
 
 No one buys a drill because they love drills. They want a hole in the wall. People don't join a gym because they love gym memberships. They want to feel healthier. Nobody buys software for the software. They want their work to get easier.
 
-That lesson applies beyond business. In your career, people don't only care what skills you have. They care what those skills help them solve. In your work, people don't only care how busy you are. They care what you actually deliver. In life, people don't only remember what you said you wanted to do. They remember what changed because you showed up.
+It goes beyond business. In your career, people don't care what skills you have. They care what those skills solve. At work, nobody cares how busy you are. They care what you deliver. In life, people don't remember what you said you'd do. They remember what changed because you showed up.
 
-It's easy to spend a lot of time talking about what something is. The features. The details. The effort. The plan. But the person listening is usually wondering: "What does this change?"
+It's easy to spend all your time explaining what something is. The features. The effort. The plan. The person listening is wondering what it changes.
 
 The result is the point.

@@ -5,28 +5,26 @@ icon: book
 
 # Chapter 6 : The Problems Never Stop. They Change.
 
-From the outside, adults can look like they know what they're doing.
+From the outside, adults look like they know what they're doing.
 
-They pay bills. Go to work. Make decisions. Talk like they have a plan.
+They pay bills. Go to work. Make decisions. Talk like there's a plan.
 
-So when you're young, it's easy to think adulthood means finally having life figured out.
+So when you're young it's easy to think adulthood means finally having life sorted.
 
-Then you grow up and realize many adults are still learning too.
+Then you grow up and find most adults are still working it out.
 
-When I was younger, I thought adulthood would eventually become easier. I imagined there would be a point where everything finally made sense. No more confusion. No more difficult decisions. No more problems. Just confidence. Stability. And having life figured out.
+I thought it would get easier eventually. I imagined a point where everything made sense. No more confusion, no more hard decisions, no more problems. Just confidence and stability.
 
 Then I got older.
 
-The problems never disappeared. They just changed.
+The problems never disappeared. They changed.
 
-As students, we worry about exams. Then we worry about jobs. Then bills. Then relationships. Then responsibilities.
+As students we worry about exams. Then jobs. Then bills. Then relationships. Then responsibilities.
 
-Life doesn't become problem-free.
+I've known people with more money than they ever imagined and the problems were still there. People with great careers whose lives weren't suddenly simple. People who looked like they had everything together and were still carrying something.
 
-I've known people with more money than they ever imagined. The problems were still there. I've known people with great careers. Life wasn't suddenly simple. I've known people who seemed to have everything together. They were still carrying something.
+That was strangely comforting. Not because I wanted anyone struggling. Because it meant problems aren't a sign something has gone wrong. They're part of being alive.
 
-That was strangely comforting. Not because I wanted anyone to struggle. But because it reminded me that problems are part of being alive.
+Looking back, a lot of what once felt overwhelming doesn't anymore. Not because life got easier. Because I got better at handling it.
 
-When I look back, a lot of the things that once felt overwhelming don't feel that way anymore. Not because life became easier. Because I became better at dealing with them.
-
-And maybe that's what growing up really is. Not reaching a point where there are no problems. Reaching a point where the problems don't scare you as much as they used to.
+And maybe that's what growing up is. Not reaching a point with no problems. Reaching a point where they don't scare you the way they used to.

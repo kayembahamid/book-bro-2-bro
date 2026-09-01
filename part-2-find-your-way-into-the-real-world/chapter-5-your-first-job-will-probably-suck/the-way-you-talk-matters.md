@@ -7,24 +7,24 @@ icon: phone-connection
 
 The way you talk in a group chat can't always follow you into work.
 
-Same jokes. Same tone. Same attitude. Same careless replies.
+Same jokes. Same tone. Same careless replies.
 
 With friends, no one thinks much of it. At work, people notice.
 
-Not because everyone is waiting to judge you. Because communication tells people how you handle yourself.
+Not because they're waiting to judge you. Because how you talk tells people how you handle yourself.
 
-I understand why this happens. Most of us spend years around people our own age. Then suddenly we find ourselves working with managers. Customers. Clients. Older coworkers. People from completely different backgrounds.
+Most of us spend years surrounded by people our own age. Then suddenly there are managers. Customers. Clients. Older coworkers. People from completely different worlds.
 
-And we don't always notice that different situations require different communication.
+And we don't always notice that different rooms need different registers.
 
-I've watched a sharp young worker message a manager the same way they'd text a friend, and watched it quietly change how the room saw them. The work was fine. The tone did the damage.
+I once watched a sharp young worker message a manager the way he'd text a friend, and watched it quietly change how the room saw him. The work was fine. The tone did the damage.
 
-The room is paying attention, even when no one says it out loud. Not only to your work. To how you speak. How you handle mistakes. How you respond under pressure. How you treat the person beside you. Even the people at the same level as you.
+The room pays attention even when nobody says so. Not just to your work. To how you speak. How you handle mistakes. How you respond under pressure. How you treat the person beside you.
 
-The impression you leave gets built through small conversations. A greeting. A message. A meeting. A simple interaction. Your response when someone asks for help. Your tone when you're frustrated. Your words when you explain a mistake.
+The impression you leave gets built in small pieces. A greeting. A message. Your reply when someone asks for help. Your tone when you're frustrated. Your words when you explain a mistake.
 
-Over time, those moments add up. And before you realize it, someone has formed an opinion about you.
+They add up. And before you notice, someone has formed an opinion.
 
-That's why communication isn't just a skill. It becomes part of your reputation.
+Which is why communication stops being a skill and becomes part of your reputation.
 
-And your reputation is built one conversation at a time.
+And that gets built one conversation at a time.

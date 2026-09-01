@@ -7,35 +7,15 @@ icon: face-saluting
 
 ### Why This Book Exists
 
-I didn't set out to write a book about life.
+I didn't set out to write a book about life. It never crossed my mind.
 
-Honestly, I never even thought about it.
+People who know me know I talk more easily about technology. Security. Programming. Systems. Ideas. Projects. That's the stuff I can hand over without thinking about it.
 
-The people who know me know that I usually talk more openly about technology than I do about life.
+Life is different. I only talk about life when someone closes the door and asks.
 
-Security.
+That's how this book started. Conversations. After class, in hallways, beside my desk, on the stairs. Messages from students years after they'd graduated.
 
-Programming.
-
-Systems.
-
-Ideas.
-
-Projects.
-
-That's always felt easier for me to share.
-
-Life is different.
-
-I usually talk about those things when someone opens up to me in private.
-
-And that's how this book really began.
-
-At first, there were just conversations. After class, in hallways, beside my desk, on the stairs. In messages years after students had graduated.
-
-One question became another.
-
-And slowly, I realized the same questions kept coming back.
+One question turned into another. And slowly I noticed the same ones kept coming back.
 
 "Ham, I'm stuck."
 
@@ -49,51 +29,17 @@ And slowly, I realized the same questions kept coming back.
 
 "I feel behind."
 
-"I think I made a mistake."
-
 "Ham, I'm lost."
 
-I never had perfect answers.
+I never had perfect answers. Most of the time I was still working it out myself. But I listened, and I told them what I'd seen. What I'd got wrong. What I wish someone had explained to me earlier.
 
-Most of the time, I was still figuring things out myself.
+That's all this is. Conversations, observations, mistakes, and lessons I learned later than I'd have liked. Some of the stories are mine. Some came from students. Some came from failing at something. A few only made sense years afterwards.
 
-But I listened.
+If it saves you one bad decision, one wasted year, or one regret you didn't need to carry, it was worth writing.
 
-I shared what I had seen. What I had learned. What I got wrong. What I wish someone had explained to me earlier.
+And maybe one day my son or daughter will find these pages. Maybe by then I won't be around to explain any of it myself. But the pages can stay. For them. For my students. For anyone trying to work life out one step at a time.
 
-That's what this book is.
-
-A collection of conversations.
-
-Observations.
-
-Mistakes.
-
-Stories.
-
-Lessons I learned later than I wish I had.
-
-Some of the stories are mine. Some came from students. Some came from work. Some came from failure. Some only made sense years later.
-
-If this book helps you avoid one bad decision, one wasted year, or one regret you didn't need to carry, then writing it was worth it.
-
-And maybe one day, my son or daughter will find these pages too.
-
-Maybe by then, I won't be there to explain everything myself.
-
-Maybe I won't be around to answer every question.
-
-But these pages can stay.
-
-For them.
-
-For my students.
-
-For anyone trying to figure life out one step at a time.
-
-So if you're feeling lost. Confused. Overwhelmed. Curious. Or just sitting there wondering what comes next.
-
-Welcome.
+So if you're lost right now. Confused. Overwhelmed. Or just sitting there wondering what comes next.
 
 Pull up a chair.
 

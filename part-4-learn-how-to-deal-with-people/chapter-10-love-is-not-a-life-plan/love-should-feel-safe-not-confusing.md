@@ -5,40 +5,42 @@ icon: face-smile-hearts
 
 # Love Should Feel Safe, Not Confusing
 
-Before you build a life with someone, ask yourself one honest question: Do I feel safe here?
+Before you build a life with someone, one honest question. Do I feel safe here?
 
-Not excited all the time. Not entertained all the time. Not obsessed. Safe. Respected. Steady. Able to be yourself without constantly feeling confused.
+Not excited all the time. Not entertained. Not obsessed. Safe. Respected. Steady. Able to be yourself without constantly feeling confused.
 
-That question matters because it's easy to confuse love with intensity. Attraction. Drama. Jealousy. Possessiveness. The disappearing and coming back. The need to keep proving yourself.
+That question matters because love and intensity are easy to mix up. Attraction. Drama. Jealousy. The disappearing and coming back. The need to keep proving yourself.
 
-At first, it can feel deep. Like the emotions are strong. Like the relationship must be important because it takes up so much space in your mind. But sometimes it isn't love. Sometimes it's exhaustion.
+It can feel deep at first. The emotions are strong. It takes up so much space in your head that it must be important.
 
-The right person won't make your life perfect. No one can. But the right person shouldn't make your life feel constantly unstable either.
+Sometimes it isn't love. Sometimes it's exhaustion.
 
-You shouldn't spend every day wondering where you stand. You shouldn't feel like you have to beg for basic care. You shouldn't lose your peace just to keep someone close.
+The right person won't make your life perfect. No one can. They also shouldn't make it feel permanently unstable.
 
-Love should add something steady to your life. Not constant confusion.
+You shouldn't spend every day wondering where you stand. You shouldn't have to beg for basic care. You shouldn't lose your peace to keep someone close.
 
-That doesn't mean healthy relationships never have problems. They do. People disagree. People misunderstand each other. People make mistakes. But there's a difference between normal conflict and constant chaos. One can help two people understand each other better. The other slowly wears them down.
+Love should add something steady. Not constant confusion.
 
-Chemistry is exciting. But respect lasts longer. Attraction can bring two people together. But character decides what happens after that.
+That doesn't mean healthy relationships have no problems. People disagree. Misunderstand each other. Get it wrong. But there's a difference between normal conflict and constant chaos. One helps two people understand each other. The other slowly wears them down.
 
-Can you trust this person? Do they keep their word? Do they treat people well? Do they support your growth? Do you respect who they are when life becomes difficult?
+Chemistry is exciting. Respect lasts longer. Attraction brings two people together. Character decides what happens next.
 
-Because eventually the excitement settles. The butterflies calm down. Real life arrives. Stress. Money. Family. Work. Disappointment. Responsibility.
+Can you trust them? Do they keep their word? Do they treat people well? Do they support you growing? Do you respect who they are when things get hard?
 
-That's when you begin to see what the relationship is really made of. Anybody can be sweet when life is easy. The real test comes when life becomes difficult.
+Because eventually the excitement settles. The butterflies calm down. Real life turns up. Stress. Money. Family. Work. Responsibility.
 
-Watch how someone handles pressure. Watch how they handle conflict. Watch how they speak when they're angry. Watch whether their actions match their words.
+That's when you see what the relationship is made of. Anybody can be sweet when life is easy.
 
-Real love becomes clearer with time. Fantasy usually becomes weaker. Reality usually becomes stronger.
+Watch how they handle pressure. How they handle conflict. How they speak when they're angry. Whether their actions match their words.
 
-That's why you shouldn't rush permanent decisions just because emotions feel urgent. Feelings can be powerful. But they're not always wise.
+Real love gets clearer with time. Fantasy gets weaker. Reality gets stronger.
 
-So before you build a life with someone, be honest about the things that last. Trust. Respect. Safety. Whether you can solve problems together. Whether you're walking in the same direction.
+Which is why you shouldn't rush permanent decisions because emotions feel urgent. Feelings are powerful. They aren't always wise.
 
-Love is choosing someone you can build with. Someone who brings peace. Not constant confusion. Someone whose character still makes sense after the excitement fades.
+So be honest about the things that last. Trust. Respect. Safety. Whether you can solve problems together. Whether you're walking the same way.
+
+Love is choosing someone you can build with. Someone who brings peace. Someone whose character still makes sense once the excitement fades.
 
 Love is beautiful. Healthy love is respect, safety, patience, trust and effort. Two imperfect people learning how to choose each other well.
 
-Not only when it feels exciting. But when real life arrives.
+Not only when it's exciting. When real life arrives.

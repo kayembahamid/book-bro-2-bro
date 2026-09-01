@@ -7,34 +7,32 @@ icon: people-arrows
 
 "I should probably say something."
 
-That sentence has a weight to it. You know something feels wrong. You know the conversation needs to happen. But you also know it may be uncomfortable.
+That sentence has weight in it. You know something's wrong. You know the conversation needs to happen. You also know it's going to be uncomfortable.
 
 So you wait.
 
-At first, waiting feels easier. No argument. No tension. No risk of saying the wrong thing. No difficult moment.
+Waiting feels easier at first. No argument. No tension. No risk of saying it badly.
 
-But some things don't disappear just because no one talks about them. They just get heavier.
+But things don't disappear just because nobody talks about them. They get heavier.
 
-Some of the hardest conversations in life aren't with strangers. They're with people we care about. Friends. Family. Partners. Coworkers.
+The hardest conversations aren't with strangers. They're with people we care about. Friends. Family. Partners. Coworkers. The people closest to us are the hardest to be completely honest with.
 
-The people closest to us can be the hardest people to be completely honest with.
+Every relationship that matters eventually meets a conversation nobody wants to have. Disappointment. Expectations. Boundaries. Mistakes.
 
-I used to think healthy relationships avoided conflict. Now I think every meaningful relationship eventually meets difficult conversations. Disappointment. Expectations. Boundaries. Misunderstandings. Mistakes.
+The question isn't whether they happen. It's what happens when they do.
 
-Those conversations are part of life. The question isn't whether they happen. The question is what happens when they do.
+Most people don't avoid hard conversations because they don't care. They avoid them because they do. They don't want to upset anyone, create tension, damage the relationship. So they wait and hope it solves itself.
 
-Many people don't avoid difficult conversations because they don't care. They avoid them because they care. They don't want to upset someone. Create tension. Start an argument. Damage the relationship. So they wait. And hope the problem solves itself.
+Sometimes it does. Usually it doesn't. The problem sits there. A small misunderstanding becomes frustration. Frustration becomes resentment. Resentment becomes distance.
 
-Sometimes it does. Often, it doesn't. The problem simply sits there. A small misunderstanding becomes frustration. Frustration becomes resentment. Resentment becomes distance.
+That's the trick silence plays. Cheaper now, more expensive later.
 
-That's the strange thing about silence. It often feels easier in the moment. But more expensive later.
+I've watched two good friends lose most of a year to a conversation neither one wanted to start. It would have taken twenty minutes.
 
-I've watched two good friends lose most of a year to a conversation neither one wanted to start.
+Starting it sounds simple. It rarely feels simple when you're inside it.
 
-That sounds simple. It rarely feels simple when you're inside the conversation.
+But avoiding it doesn't make it disappear. It postpones it, and postponed conversations get harder.
 
-But avoiding it usually doesn't make it disappear. It just postpones it. And postponed conversations tend to become harder conversations.
+Communication isn't always about saying the perfect thing. Sometimes it's about being willing to say the necessary thing.
 
-Communication isn't always about saying the perfect thing. Sometimes it's about being willing to say the necessary thing. Even when it's uncomfortable.
-
-Because avoiding it doesn't fix it. And sooner or later, somebody has to carry the cost.
+Avoiding it doesn't fix it. Somebody carries the cost later.

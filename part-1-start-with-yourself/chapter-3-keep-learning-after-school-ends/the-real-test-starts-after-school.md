@@ -7,44 +7,30 @@ icon: gears
 
 The tests don't stop after school. They just stop looking like tests.
 
-No one hands you an exam paper or tells you what to study. Nothing gets announced as "this will be on the final."
+No one hands you a paper or tells you what to study. Nothing gets announced as "this will be on the final."
 
-But life still asks questions.
+But life keeps asking.
 
-Can you solve problems?&#x20;
+Can you solve problems? Can you explain yourself? Can you learn when nobody's making you? Can you adjust when things move?
 
-Can you communicate?&#x20;
+That's the surprise waiting on the other side. We think learning ends when the exams do. It just changes shape.
 
-Can you learn when no one is making you?&#x20;
+The world moves fast. Technology moves. Jobs move. Whole industries move. The people who keep learning adjust faster than the people who stopped.
 
-Can you adjust when things change?
+Whenever I use ChatGPT in class, someone says: "Ham, AI is cheating."
 
-That's one of the biggest surprises after school.
+I laugh. The calculator didn't replace mathematicians. Google didn't replace knowing things. AI won't replace learning.
 
-A lot of us think learning ends when the exam ends. But real learning shows up differently.
+But the people who work out how to use a new tool move faster than the people who pretend it isn't there.
 
-Can you explain what you know? Can you use it? Can you apply it? Can you solve a problem with it?
+So the learning after school is the part that counts. The books you read. The skills you build. The questions you ask. The notes you keep.
 
-Because the world changes fast. Technology changes. Jobs change. Industries change.
-
-And the ones who keep learning usually adjust faster than the ones who stop.
-
-These days, whenever I use ChatGPT in class, I sometimes hear students say: "Ham, AI is cheating."
-
-I laugh.
-
-The calculator didn't replace mathematicians. Google didn't replace knowledge. And AI won't replace learning.
-
-But those who learn how to use new tools usually move faster than those who ignore them.
-
-That's why learning after school matters. The books you read. The skills you build. The questions you ask. The notes you keep. The habits you develop.
-
-All of it compounds over time. Not in one day. Not in one week. But slowly. Quietly. Until one day you realize you're not the same person you were before.
+It compounds. Not in a day. Not in a week. Slowly, quietly, until you look up and you're not the person you were.
 
 That's where this chapter ends.
 
-Learning is important. But learning alone isn't enough. A lot of young people study. Prepare. Build skills. Then sit back and wait.
+Learning matters. But learning on its own isn't enough. Plenty of young people study, prepare, build skills, then sit back and wait.
 
-Unfortunately, the world rarely works that way.
+The world rarely works that way.
 
-And that's the next problem. No one knows who you are yet.
+Which brings us to the next problem. No one knows who you are yet.

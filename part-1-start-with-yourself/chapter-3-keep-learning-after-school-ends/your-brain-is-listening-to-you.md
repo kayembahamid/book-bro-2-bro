@@ -7,51 +7,33 @@ icon: brain-circuit
 
 "I already know I failed."
 
-He said it before I even showed him the score.
+He says it before I've even shown him the score.
 
-That was the part that stayed with me. Not the test. Not the mistakes. The sentence.
+That's the part that stayed with me. Not the test. Not the mistakes. The sentence.
 
-Because sometimes the words we say before we begin tell us more than the result at the end.
+He was one of my weakest students, failing almost every practice test I set. That wasn't unusual. What was unusual was that another weak student was improving every single week, and eventually overtook him.
 
-He was one of my weakest students. He kept failing almost every practice test I gave him.
+Both of them struggled. Both made mistakes. Both started in roughly the same place.
 
-That wasn't unusual. What was unusual was that another weak student was improving every week. Eventually, that student passed him.
+So one day I call him over.
 
-That got my attention.
+"I'm not here to talk about your score. I want to know what's going through your head while you're taking the test."
 
-Both students struggled. Both made mistakes. Both started at almost the same level.
-
-So one day, I called him over.
-
-"I'm not here to talk about your score," I told him. "I want to know what you're thinking while you're taking the test."
-
-He looked confused. Then he started answering.
+He looks confused. Then he starts answering.
 
 "I'm bad at English."
 
 "I'll probably get this wrong."
 
-"I always mess these tests up."
+"I always mess these up."
 
-And suddenly it made sense.
-
-Before he even read the questions, he had already decided how the story was going to end.
+And there it is. Before he's read a single question, he's already decided how the story ends.
 
 The test wasn't his biggest problem. The story he kept telling himself was.
 
-Your brain is listening.
+Your brain is listening. Keep telling it you can't do this, you're not smart enough, people like you don't succeed, and eventually those stop sounding like opinions. They start sounding like facts. And facts change how you behave.
 
-If you keep telling yourself:
-
-"I can't do this."
-
-"I'm not smart enough."
-
-"People like me never succeed."
-
-Eventually, those thoughts stop feeling like opinions. They start feeling like facts. And facts change how you act.
-
-The people who recover from failure refuse to let one bad day become their identity.
+The people who come back from failure refuse to let one bad day become who they are.
 
 Fail the test. Learn the lesson. Try again.
 

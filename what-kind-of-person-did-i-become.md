@@ -5,16 +5,16 @@ icon: face-saluting
 
 # What kind of person did I become?
 
-At the end of all this, one question remains.
+At the end of all this, one question is left.
 
-Not only: "What did I achieve?"
+Not "what did I achieve?"
 
-Not only: "How much did I earn?"
+Not "how much did I earn?"
 
-Not only: "Who noticed me?"
+Not "who noticed me?"
 
-But: "What kind of person did I become?"
+But: "what kind of person did I become?"
 
-That question feels heavier than the others. Because it doesn't measure success. It measures the person success left behind.
+That one feels heavier than the others. Because it doesn't measure success. It measures the person success left behind.
 
-Character!
+Character.

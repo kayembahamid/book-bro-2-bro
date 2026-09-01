@@ -7,26 +7,24 @@ icon: book
 
 The first job has a way of humbling you.
 
-Not always in a dramatic way. Sometimes it's just a long shift. A difficult customer. A task you've repeated too many times. A manager asking you to fix something you thought wasn't your fault.
+Not dramatically. A long shift. A difficult customer. A task you've done forty times. A manager asking you to fix something that wasn't your fault.
 
-And suddenly work feels very different from the dream you had in your head.
+And suddenly work looks nothing like the version in your head.
 
-I remember one week at my first job that felt like one of the longest weeks of my life. Every day slow, the work repetitive, the customers difficult, the hours longer than I expected.
+I remember one week at my first job that felt like the longest week of my life. Every day slow, the work repetitive, the customers difficult, the hours longer than anyone told me.
 
-I remember asking myself: "Is this what working is like?"
+I remember thinking: is this what working is?
 
-Before you start working, it's easy to imagine the clean version. A career. Success. Money. Interesting projects. A nice office. A title that sounds important.
+Before you start, it's easy to picture the clean version. A career. Money. Interesting projects. A nice office. A title that sounds like something.
 
-Very few of us imagine answering angry emails. Dealing with difficult customers. Doing the same task over and over again. Feeling tired before the day is even finished.
+Almost nobody pictures answering angry emails, or doing the same task over and over, or being tired before the day is finished.
 
-But that's often the first version of work we meet.
+That's usually the first version of work you meet. And that's fine.
 
-And honestly, that's okay.
+Looking back, that job taught me things school couldn't. How to deal with people. How to show up when I didn't feel like it. How to stay professional while frustrated. How to keep going when the work wasn't exciting.
 
-Looking back, that job taught me things school never could. How to deal with people. How to show up when I didn't feel like it. How to stay professional when I was frustrated. How to take responsibility. How to keep going when the work wasn't exciting.
+At the time I thought I was just doing a job. Years later I realized I was collecting things I'd use in every job after it.
 
-At the time, I thought I was just doing a job. Years later, I realized I was learning skills I'd carry into every job after that.
-
-Your first job may not be the job you wanted. But it can still teach you things you'll need later.
+Your first job may not be the one you wanted. It can still teach you what you'll need.
 
 The most valuable thing you take from a job is the person you become while doing it.

@@ -7,28 +7,28 @@ icon: people-robbery
 
 My notes are full of pieces. Lines from books. Questions from students. Ideas from conversations. Mistakes from projects. Things I didn't understand at the time.
 
-Even parts of this book you're reading now began like that. A note. A thought. A question. A small idea I almost forgot.
+Parts of this book started like that. A note. A thought. A question I almost forgot.
 
-Then one boring evening, I'm going through my phone and two old notes collide.
+Then one boring evening I'm going through my phone and two old notes collide.
 
-One idea connects with another. A lesson from teaching connects with something I read years ago. A mistake from one project connects with a conversation I had with a student. And suddenly, something new appears. Not from nowhere. From pieces that finally found each other.
+A lesson from teaching meets something I read years ago. A mistake from one project meets a conversation with a student. And something new shows up. Not from nowhere. From pieces that finally found each other.
 
-At first, that bothered me. I thought originality meant creating something from nothing. No influence. No connection. No borrowing. Just a clean idea appearing by itself.
+That bothered me at first. I thought originality meant making something from nothing. No influence. No borrowing. A clean idea arriving by itself.
 
-But I don't think creativity works like that. Every writer learns from other writers. Every teacher learns from other teachers. Every programmer learns from other programmers. Every business owner learns from other business owners.
+Creativity doesn't work like that. Every writer learns from other writers. Every teacher learns from other teachers. Every programmer learns from other programmers.
 
-The people we admire were students long before they became creators.
+The people we admire were students long before they were creators.
 
-Once I understood that, I stopped worrying so much about being original. I started paying more attention to learning.
+Once I understood that I stopped worrying about being original and started paying attention to learning.
 
-There's a difference between copying and learning. Copying says: "I want to be them." Learning says: "I want to understand what works."
+There's a difference between copying and learning. Copying says "I want to be them." Learning says "I want to understand what works."
 
-That's a very different mindset. One keeps you stuck. The other helps you grow.
+One keeps you stuck. The other moves you.
 
-A lot of the things I create don't come from sitting in a room waiting for inspiration. They come from collecting pieces. Books. Conversations. Experiences. Projects. Teaching. Technology. History. Then connecting them in a way that makes sense to me.
+Most of what I make doesn't come from sitting in a room waiting for inspiration. It comes from collecting pieces. Books. Conversations. Projects. Teaching. Technology. History. Then connecting them in a way that makes sense to me.
 
-That's why I keep notes. Ideas tend to bump into each other. And when they do, something new can appear.
+That's why I keep notes. Ideas bump into each other, and something appears.
 
-The interesting thing is that two people can learn from the same source and create completely different things. The difference is the person. Their experiences. Their questions. Their taste.
+Two people can learn from the same source and build completely different things. The difference is the person. Their experiences. Their questions. Their taste.
 
-That's where originality usually lives. Not in creating something from nothing. But in taking what you've learned and making it your own.
+That's where originality lives. Not in making something from nothing. In taking what you learned and making it yours.

@@ -5,11 +5,11 @@ icon: mailbox
 
 # Final Letter
 
-If you've made it this far, thank you. Not only for reading. But for giving your time to someone you may never meet.
+If you made it this far, thank you. Not only for reading. For giving your time to someone you'll probably never meet.
 
-One day, years from now, you may not remember every page in this book. That's okay. I don't remember every lesson my teachers taught me either. But I remember how some of them made me think. How some of them made me believe I could become more than I imagined.
+Years from now you won't remember every page of this. That's fine. I don't remember every lesson my own teachers taught me either. I remember how a few of them made me think. How a few of them made me believe I could be more than I'd assumed.
 
-If this book has done that for you, even once, then it's done its job.
+If this did that for you even once, it did its job.
 
 Whatever you do next, make it count.
 

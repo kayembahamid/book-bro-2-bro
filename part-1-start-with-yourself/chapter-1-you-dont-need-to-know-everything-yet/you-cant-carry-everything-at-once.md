@@ -5,32 +5,20 @@ icon: dice-one
 
 # You Can't Carry Everything At Once
 
-## You Can’t Carry Everything At Once
+Become fluent in English. Learn coding. Go to the gym. Get top grades. See friends more. Sleep eight hours. Start an online business.
 
-Become fluent in English. Learn coding. Go to the gym. Get top grades. Spend more time with friends. Sleep eight hours. Start an online business.
+That's the plan a student hands me one afternoon. All of it. In one week.
 
-That was the plan one student showed me.
+I laugh, because I've written that exact list for myself before.
 
-All of it. In one week.
+He doesn't have a time problem. He has a priority problem.
 
-I looked at the plan and laughed.
+Some goals are for now. Some are for later. Some can wait a year and lose nothing.
 
-Because I had done the same thing myself before.
+So I ask him one question.
 
-He was overloaded.
+"What's the one thing you absolutely have to get done today?"
 
-A lot of people don't have a time problem. They have a priority problem.
-
-You can't carry everything at once.
-
-Some goals are for now. Some goals are for later. And some goals can wait.
-
-So I asked him one question.
-
-"What is the one thing you absolutely need to get done today?"
-
-Not ten things. One.
-
-Start there. Then worry about tomorrow.
+Not ten things. One. Start there, then worry about tomorrow.
 
 He didn't need a better plan. He needed a shorter one.

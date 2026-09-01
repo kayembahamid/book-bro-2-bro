@@ -5,32 +5,18 @@ icon: stairs
 
 # Find The Next Step
 
-### Find The Next Step
+A big goal feels like standing at the bottom of a staircase you can't see the top of.
 
-A big goal can feel like standing at the bottom of a staircase you can't see the top of.
+You look up and take it all in at once. The skills. The job. The money. The competition. The years.
 
-You look up and think about everything at once. The skills. The job. The money. The competition. The years it might take.
+And you're tired before you've started.
 
-And before you even begin, you feel tired.
-
-That happens to a lot of people.
-
-They're not lazy. They're just trying to carry the whole future in their head at once.
+That's not laziness. That's trying to carry the whole future in your head at the same time.
 
 But you don't climb a staircase by staring at the top.
 
 You climb it by finding the next step.
 
-One tutorial.
+One tutorial. One chapter. One hour of practice. One honest attempt.
 
-One chapter.
-
-One hour of practice.
-
-One small project.
-
-One honest attempt.
-
-That's where direction begins.
-
-Not by knowing everything. By taking the next step in front of you.
+That's where direction begins. Not by knowing everything. By taking the step in front of you.

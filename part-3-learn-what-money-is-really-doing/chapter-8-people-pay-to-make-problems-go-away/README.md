@@ -5,30 +5,30 @@ icon: book
 
 # Chapter 8 :  People Pay To Make Problems Go Away
 
-### Money Follows Value.
+### Money Follows Value
 
 "How do I make more money?"
 
-That question makes sense. A lot of us ask it.
+Fair question. Most of us ask it.
 
-But over time, I started thinking there's a better question hiding underneath it. "What problem can I help solve?"
+But there's a better one hiding underneath.
 
-At first, I used to think successful people had something I didn't. A special brain. Better connections. Better chances. Better luck. Some secret I hadn't learned yet.
+I used to think successful people had something I didn't. A special brain. Better connections. Better luck. Some secret nobody had told me.
 
-Then I started interacting with people who were doing well. And the pattern became harder to ignore.
+Then I started spending time around people who were doing well, and the pattern got hard to miss.
 
-The ones earning more were usually solving problems for other people. A teacher helps someone understand. An engineer helps things work. A mechanic fixes what's broken. A business owner solves problems for customers. A software developer builds tools others need.
+The ones earning more were solving problems for other people. A teacher helps someone understand. An engineer makes things work. A mechanic fixes what's broken. A developer builds a tool other people need.
 
 Different jobs. Different industries. Same pattern.
 
 The money wasn't the starting point. The problem was.
 
-For a long time, I thought earning more money was the goal. Now I think creating more value is the goal.
+I spent years asking how to earn more. The better question had been sitting underneath it the whole time.
 
-Because when someone gives you money, they're usually saying something simple: "You helped me solve something I couldn't solve myself."
+Because when someone hands you money, they're saying something simple. You helped me solve something I couldn't solve myself.
 
-That changed how I started seeing money. A lot of us want to earn more. That's normal. But money usually follows value. A solution. A result. An outcome. A better situation than the one someone had before.
+That changed how I saw the whole thing. Wanting to earn more is normal. But money follows value. A solution. A result. A better situation than the one somebody had before.
 
-Once you understand that, you start seeing chances differently. You stop only asking: "How do I make more money?" And you start asking: "What problem can I help solve?"
+So you stop asking "how do I make more money?" and start asking "what problem can I help solve?"
 
-Because money follows value. And value usually begins with a problem.
+Money follows value. Value starts with a problem.

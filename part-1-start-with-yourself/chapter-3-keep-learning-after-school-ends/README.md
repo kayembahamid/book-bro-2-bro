@@ -7,46 +7,34 @@ icon: book
 
 "Mr Ham, just be honest with me."
 
-The mother looked serious. So I nodded.
+The mother looks serious, so I nod.
 
-Then she asked me a question I wasn't ready for.
+Then she asks something I'm not ready for.
 
 "Do you think my son is naturally stupid?"
 
-I nearly laughed. Not because the question was funny. Because I knew the student she was talking about.
+I nearly laugh. Not because it's funny. Because I know exactly which student she means.
 
-And no, he wasn't stupid. He just learned differently.
+And no. He isn't stupid. He learns differently.
 
-I still remember that student. I won't say his name. But he eventually finished in the top ten of my class.
+I won't say his name. He finished in the top ten of my class.
 
-That's one of the reasons I'm careful when students say: "Ham, I'm not smart."
+That's why I'm careful when a student tells me: "Ham, I'm not smart."
 
-I've heard that sentence many times.
+I've heard that sentence hundreds of times, and most of the time the student isn't stupid. They're frustrated.
 
-And most of the time, I don't think the student is stupid. I think they're frustrated.
+We don't all learn the same way. Some of us learn by writing it down. Some by teaching it to someone else. Some by watching. Some need silence, some need music, some need to go round the same thing ten times before it sticks.
 
-We don't all learn the same way.
+Plenty of people think they're bad at learning when really they haven't worked out how their own brain does it.
 
-Some of us learn by writing notes. Some learn by teaching others. Some learn by watching. Some learn by listening. Some need silence. Some need music. Some need to repeat something ten times before it finally sticks.
+So stop asking "am I smart?" and start asking "how do I learn best?"
 
-And that's okay.
+I've seen average students turn excellent. I've seen talented ones stay exactly where they started. The difference usually wasn't talent. It was what they did after class. How they practiced. How they reviewed. How they handled being wrong.
 
-A lot of us think we're bad at learning. Sometimes we just haven't figured out how our brain learns best.
+When you understand how you learn, you stop fighting your brain and start working with it.
 
-That's why I tell students to stop asking: "Am I smart?"
+Which matters, because learning doesn't stop when school does. That's when it starts.
 
-And start asking: "How do I learn best?"
+The books you read. The skills you build. The mistakes you learn from. The conversations you actually pay attention to.
 
-Because I've seen average students become excellent. And I've seen talented students stay exactly where they started.
-
-The difference wasn't always talent. Sometimes it was what they did after class. How they practiced. How they reviewed. How they asked questions. How they handled mistakes.
-
-When you understand how you learn, something changes. You stop fighting your brain. You start working with it.
-
-That matters because learning doesn't stop when school ends.
-
-Honestly, that's when it really begins.
-
-The books you read. The skills you build. The mistakes you learn from. The conversations you pay attention to.
-
-The person you become over the next ten years will be shaped by what you choose to learn after the homework stops.
+Who you are in ten years gets decided by what you choose to learn once the homework stops.

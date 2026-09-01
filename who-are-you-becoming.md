@@ -5,40 +5,38 @@ icon: user-visor
 
 # Who Are You Becoming?
 
-### Who Are You Becoming?
-
-There is one person you take into every room. Every job. Every relationship. Every success. Every mistake. Every private decision no one else sees.
+There's one person you take into every room. Every job. Every relationship. Every success. Every mistake. Every private decision no one else sees.
 
 You.
 
-That's why who you're becoming matters more than most people realize.
+Which is why who you're becoming matters more than most people notice.
 
-A lot of questions follow us through life. What do you want to study? What job do you want? How much money do you want to make? Who do you want to marry? Where do you want to live?
+Plenty of questions follow you through life. What do you want to study? What job do you want? How much do you want to earn? Who do you want to marry? Where do you want to live?
 
-Those questions matter. But they're not the whole question.
+They matter. They're not the whole question.
 
-Because careers change. Money comes and goes. Relationships begin and end. Plans succeed and fail. But through all of it, one person remains.
+Careers change. Money comes and goes. Relationships begin and end. Plans work and fail. Through all of it, one person is still there.
 
 You.
 
-And eventually, you discover that life isn't only about building a career. Or building wealth. Or building relationships. It's also about building character.
+And eventually you find that life isn't only about building a career, or wealth, or relationships. It's about building character.
 
-Because character is the one thing you carry into everything. Every chance. Every setback. Every relationship.
+Because character is the thing you carry into everything. Every chance. Every setback. Every relationship.
 
-That's why this question matters. Not only: "What do I want?" But: "Who am I becoming while I chase it?"
+So the question isn't only what do I want. It's who am I becoming while I chase it.
 
-Because it's possible to get what you wanted and still not like who you became to get it.
+You can get exactly what you wanted and not like who you became to get it.
 
-It's possible to earn more money and lose your peace. It's possible to build a career and lose your character. It's possible to be admired by others and still feel uncomfortable with yourself.
+You can earn more and lose your peace. Build a career and lose your character. Be admired by everyone and still feel uncomfortable alone with yourself.
 
-That's why achievement can't be the only measure. The life you build matters. But the person you become while building it matters too.
+Which is why achievement can't be the only measure. The life you build matters. So does the person building it.
 
 Your habits. Your honesty. Your discipline. Your patience. Your courage. Your kindness. Your ability to keep your word when no one is watching.
 
-Those things may not look impressive at first. They don't always get applause. They don't always make noise. But over time, they become the foundation of your life.
+None of that looks impressive early on. It doesn't get applause. It doesn't make noise. Over time it becomes the foundation everything else stands on.
 
-Because the person you become is the person who has to live with your choices. Not for one day. Not for one season. For the rest of your life.
+Because the person you become is the one who has to live with your choices. Not for a day. Not for a season. For the rest of it.
 
-So as you think about your future, don't only ask what you want to have. Ask what kind of person you're becoming.
+So as you think about your future, don't only ask what you want to have. Ask what kind of person you're turning into.
 
-Because the person you become matters more than anything you achieve.
+The person you become matters more than anything you achieve.

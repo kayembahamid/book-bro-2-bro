@@ -5,44 +5,40 @@ icon: notion
 
 # Write It Down Before It Disappears
 
-A good idea can disappear faster than you think.
+A good idea disappears faster than you'd think.
 
-You hear something useful. You understand it. It feels important. You tell yourself: "I'll remember that."
+You hear something useful. You get it. It feels important. You tell yourself you'll remember.
 
-Then a few days later, it's gone.
+A few days later it's gone.
 
-Not because the idea was useless. Because you gave it nowhere to live.
+Not because the idea was weak. Because you gave it nowhere to live.
 
-I learned that the hard way. A few years ago, I thought I'd remember every good idea I had. Every lesson. Every insight. Every interesting conversation.
+I learned that the hard way. A few years ago I assumed I'd remember every good idea I had. Every lesson. Every decent conversation.
 
 I didn't.
 
-So I started writing things down.
+So I started writing things down. It was messy at first. Ideas. Things students said. Mistakes I'd made. Questions I couldn't answer. Stuff I wanted to look into.
 
-At first, it was random. Ideas. Lessons from students. Mistakes I made. Interesting questions. Things I wanted to learn more about.
+Years later some of those notes turned into books. Some turned into lessons. Some turned into solutions to problems I hadn't even hit yet.
 
-Years later, some of those notes became books. Some became lessons. Some became projects. Some became solutions to problems I hadn't even faced yet.
+That changed what notes are to me. They stopped being reminders. They're a conversation with whoever I'm going to be later.
 
-That changed how I saw notes. They weren't just reminders. They were conversations with my future self.
+A student once told me he'd spent hours watching educational videos. I asked what he'd learned.
 
-One student once told me he'd spent hours watching educational videos.
+He paused. "I don't know."
 
-I asked him what he'd learned. He paused. "I don't know."
+We all do it. Consuming all day. Videos. Podcasts. Articles. Posts. Almost none of it stays.
 
-A lot of us do that. We consume information all day. Videos. Podcasts. Articles. Posts. But very little stays.
+Not because the information is bad. Because we never gave it somewhere to live.
 
-Not because the information is useless. Because we never give it somewhere to live.
-
-Learning doesn't only happen when you hear something useful. It happens when you stop long enough to think about it.
+Learning doesn't happen when you hear something useful. It happens when you stop long enough to think about it.
 
 Write it down. Question it. Connect it to something else. Come back to it later.
 
-The ones who learn faster are usually curious. They keep asking: Why? How? What am I missing? What can I use from this?
-
-And when they find something useful, they save it.
+The people who learn fastest are curious. They keep asking why, how, what am I missing, what can I use here.
 
 I trust my memory less than I used to. Memory fades. Good notes don't.
 
-Think of your notebook as a place where good ideas can wait for you. Some ideas aren't useful today. But one day, they might be exactly what you need.
+Treat your notebook as somewhere good ideas can sit and wait for you. Some of them are useless today and exactly what you need in two years.
 
-Your future self will thank you.
+You'll be glad it's there.

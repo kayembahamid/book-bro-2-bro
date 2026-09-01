@@ -7,36 +7,32 @@ icon: money-bill-wave
 
 Money disappears faster when it has no job.
 
-I didn't understand that at first. I thought the main problem was earning money. Once money was coming in, I thought life would automatically feel more stable.
+I didn't get that at first. I thought the problem was earning it. Once money was coming in, I assumed life would settle by itself.
 
-But money without a plan has a way of leaving quietly.
+But money without a plan leaves quietly.
 
-I wasn't buying anything crazy. Just little things. Food. Coffee. New clothes. The occasional reward for working hard.
+I wasn't buying anything crazy. Little things. Food. Coffee. New clothes. The occasional reward for working hard.
 
-At first, everything felt fine. Then life happened. Something needed repairing. A bill appeared. An expense I hadn't planned for. And suddenly the money that felt comfortable a few weeks earlier was gone.
+Everything felt fine right up until something needed repairing, a bill turned up, an expense I hadn't planned for arrived. And the money that felt comfortable three weeks earlier was gone.
 
-That taught me something I wish I'd understood sooner. Making money and managing money are different skills.
+Making money and managing money are different skills. I wish I'd known that sooner.
 
-It's easy to assume that earning more will solve your money problems. That can be true. But not always.
+It's easy to assume earning more fixes it. Sometimes it does. I've met people earning very little who had everything under control, and people on excellent salaries who were permanently stressed about money.
 
-I've met people earning very little who seemed to have everything under control. I've also met people earning excellent salaries who were constantly stressed about money.
+The difference usually wasn't income. It was planning.
 
-The difference wasn't always income. Often, it was planning.
+A budget sounded like a restriction to me. A way of saying no. No fun, no freedom, no breathing room.
 
-Money has a way of disappearing when it doesn't have a purpose.
+Then the motorbike broke down in a month I hadn't planned for.
 
-This is where a budget starts to matter. I used to think of a budget as a restriction. A way of saying no. No fun. No freedom. No breathing room.
+A budget is just a plan. A way of telling your money where to go before it decides for you.
 
-But I don't see it that way anymore. A budget is simply a plan. A way of telling your money where you want it to go before it decides for you.
+Financial problems don't send warnings. The phone needs replacing. The unexpected expense arrives. That's when you find out whether you were spending your money or managing it.
 
-Because most financial problems don't arrive with a warning. The motorbike breaks down. The phone needs replacing. The unexpected expense appears. And that's usually when you discover whether you were spending all your money or managing it.
+The most useful money lesson I picked up, and I didn't invent it, is this: every dollar needs a job.
 
-One of the most useful money lessons I've learned is this: every dollar needs a job.
+Some pay today's bills. Some protect you from tomorrow's problems. Some create future chances.
 
-Some dollars pay today's bills. Some dollars protect you from tomorrow's problems. Some dollars create future chances.
+The trick is deciding before the money disappears.
 
-The challenge is making that decision before the money disappears.
-
-Money flows in and out of our lives every day. The ones who seem in control of their finances usually aren't the ones earning the most. They're the ones who know where their money is going.
-
-And that starts with a plan.
+The people in control of their finances usually aren't the ones earning most. They're the ones who know where it goes.

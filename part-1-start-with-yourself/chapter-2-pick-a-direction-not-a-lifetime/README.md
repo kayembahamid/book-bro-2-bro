@@ -5,40 +5,30 @@ icon: book
 
 # Chapter 2 : Pick A Direction, Not A Lifetime
 
-### &#x20;What If I Pick The Wrong Path?&#x20;
-
 "Ham, what if I pick the wrong path?"
 
-He asked me that at the gym one evening.
+He asks me that at the gym one evening. We've been talking about training, school, what he wants to do next.
 
-We'd been talking about training, school, and what he wanted to do next.
+But the question isn't about university.
 
-But that question wasn't really about university.
+It's about life. Career. Direction. The fear that one wrong turn ruins everything.
 
-It was about life. University. Career. Direction. The fear that one wrong choice could ruin everything.
+Most of us have asked it in some form.
 
-I think a lot of us have asked that question in one form or another.
+When you're young it feels like there's one perfect path. One perfect degree. One perfect career. Miss it and you're done.
 
-When you're young, it can feel like there's one perfect path. One perfect degree. One perfect career. One perfect decision.
+That's how the pressure feels from the inside.
 
-Miss it, and your life is ruined.
+I used to think adults had it all worked out. Then I started working, and started meeting them properly. Teachers, business owners, engineers, managers, parents.
 
-That's how the pressure feels.
+Most of them were still figuring it out too.
 
-I used to think adults had everything figured out. Like they knew exactly where they were going.
+They weren't following one perfect plan. They made the best call they could at the time, then adjusted when life moved.
 
-Then I started working. Started meeting different people. Teachers. Business owners. Engineers. Managers. Parents.
+And life moves. Your interests change. Your opportunities change. Your responsibilities change. Sometimes even your idea of success changes.
 
-And many of them were still figuring things out too.
+So the goal isn't finding the perfect path. The goal is choosing a direction and moving.
 
-They weren't following one perfect plan. They were making the best decision they could at the time. Then adjusting when life changed.
+You learn more from ten steps forward than from two years of standing still trying to get the decision perfect.
 
-Because life changes. Your interests change. Your opportunities change. Your responsibilities change. Sometimes even your idea of success changes.
-
-That's why I don't think the goal is finding the perfect path.
-
-The goal is choosing a direction and moving.
-
-You learn more by taking ten steps forward than by standing still for two years trying to make the perfect decision.
-
-Sometimes the path becomes clearer after you start walking.
+The path usually gets clearer once you're walking it.

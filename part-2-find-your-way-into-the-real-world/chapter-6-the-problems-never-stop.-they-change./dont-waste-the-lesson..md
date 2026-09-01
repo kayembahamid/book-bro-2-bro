@@ -6,27 +6,27 @@ icon: comments-question
 
 "I failed."
 
-That sentence is painful. But it's still different from: "I am a failure."
+That's painful. It's still different from "I am a failure."
 
 One describes what happened. The other tries to describe who you are.
 
-And if you're not careful, one bad moment can start pretending to be your whole identity.
+And if you're not careful, one bad afternoon starts pretending to be your whole identity.
 
-I've seen this happen after exams. After interviews. After rejected applications. After projects that didn't work.
+I've watched it after exams. After interviews. After rejected applications. After projects that went nowhere.
 
-The result hurts, so your mind tries to explain it quickly. Maybe I'm not good enough. Maybe I'm not smart enough. Maybe this isn't for me.
+The result hurts, so your mind explains it fast. Maybe I'm not good enough. Maybe this isn't for me.
 
 But a setback isn't always there to define you. Sometimes it's there to teach you.
 
-What went wrong? What did I miss? What should I do differently next time? Where was I unprepared? What warning did I ignore?
+What went wrong? What did I miss? Where was I unprepared? What warning did I ignore?
 
-Those questions aren't easy to ask when you're disappointed. But that's usually where the useful information is.
+Those aren't easy questions to ask while you're disappointed. That's usually where the useful information is hiding.
 
-A failed interview can reveal where you were unclear. A bad decision can show what you rushed. A difficult manager can teach you how important communication is. A project that falls apart can expose where you needed a better system.
+A failed interview shows you where you were unclear. A bad decision shows you what you rushed. A difficult manager teaches you what communication is worth. A project falling apart shows you where you needed a system.
 
-The lesson isn't always obvious. It can take time. You may only understand it months later.
+The lesson isn't always obvious. Sometimes you only see it months later.
 
-But if you're willing to pay attention, most setbacks leave something behind. A lesson. A warning. A better way of doing things next time.
+But if you're paying attention, most setbacks leave something behind.
 
 Failure is the start of a better conversation.
 
@@ -34,12 +34,10 @@ Don't waste it.
 
 #### End of Part 2
 
-The first part of adult life is learning how to stand on your own feet. Choosing a direction. Learning quickly. Creating chances. Building skills. Doing work that matters. Solving problems. Making your name mean something.
+The first stretch of adult life is learning to stand on your own feet. Choosing a direction. Learning quickly. Creating chances. Doing work that matters. Making your name mean something.
 
-Those lessons help you find your way into the real world.
-
-But eventually another question appears. How do you turn work into freedom? How do you stop trading all of your time just to survive? How do you build something that lasts?
+Then another question turns up. How do you turn work into freedom? How do you stop trading every hour just to survive?
 
 That's where we're going next.
 
-Because earning money and building wealth aren't the same thing. And understanding the difference can change the way you see your life.
+Earning money and building wealth are two different things. That difference changes how you see your life.

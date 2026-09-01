@@ -7,42 +7,28 @@ icon: hands-holding-child
 
 "I can't afford it."
 
-That sentence has ended more dreams than it should.
+That sentence has ended more dreams than it should have.
 
-Money is a real problem. I'm not pretending it isn't.
+Money is a real problem. I'm not pretending otherwise. But we reach for that sentence early. Before looking for anything free. Before asking anyone. Before checking whether the thing is actually blocked or just expensive on the first route we found.
 
-But sometimes we say it too early. Before looking for free resources. Before asking questions. Before searching for another way. Before finding out if the thing we want is really blocked.
+A student told me that after trying to learn cybersecurity. He'd found some paid courses, couldn't afford them, stopped.
 
-A student once said it to me after trying to learn cybersecurity.
+That was it. Not because cybersecurity was out of reach. Because the first door he tried had a price on it.
 
-He had found some paid courses. Couldn't afford them. Then stopped.
+No free resources. No PDF books. No communities. He never asked anyone.
 
-That was it.
-
-Not because cybersecurity was impossible. Because the first path he found had a price tag.
-
-No free resources. No PDF books. No communities. No asking for help.
-
-Just:
-
-"I can't afford it."
+Just: "I can't afford it."
 
 So he quit.
 
-I've seen this happen a lot.
+You hit one obstacle and start treating it like the end of the road. Usually it isn't. You just stopped looking.
 
-A lot of us hit one obstacle and start treating it like the end.
+And the fastest way past most obstacles is asking.
 
-Most of the time, it isn't. We just stop looking for another way.
-
-And the fastest way past most obstacles? Usually, it's asking.
-
-No one figures it out alone. I didn't.
-
-Most of what I know came from other people. Teachers. Books. Mentors. Friends. People online I've never even met.
+No one figures it out alone. I certainly didn't. Most of what I know came from other people. Teachers. Books. Mentors. Friends. People online I've never met.
 
 Ask when you're confused. Ask when you're stuck. Ask when you don't know where to start.
 
-A lot of us stay stuck longer than we need to because we stop asking.
+You'll stay stuck far longer than you need to if you stop asking.
 
 Don't.

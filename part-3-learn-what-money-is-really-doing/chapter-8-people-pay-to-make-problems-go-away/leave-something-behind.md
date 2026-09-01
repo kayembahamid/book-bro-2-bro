@@ -6,42 +6,36 @@ icon: building
 
 When you climb, reach back down.
 
-That sentence has stayed with me. Because none of us gets anywhere completely alone. Someone taught us. Someone opened a door. Someone encouraged us when we were struggling. Someone helped us see more than we could see by ourselves.
+That sentence has stayed with me, because none of us gets anywhere alone. Someone taught you. Someone opened a door. Someone encouraged you while you were struggling.
 
-That's why success can't only be about reaching the top alone. At some point, the question becomes: Who did you help climb too?
+So success can't only be about reaching the top by yourself. At some point the question becomes: who did you help climb?
 
-Some people seem successful from the outside. They have money. A title. A business. A nice life. But not all of them seem fulfilled.
+Some people look successful from outside. Money. A title. A business. A good life. Not all of them seem fulfilled.
 
-The people who leave the biggest impression often have something else. They're building something that reaches beyond them. A family. A business. A community. A school. A book. A team. Something useful. Something that can keep helping people even when they're no longer in the room.
+The ones who leave the biggest impression are usually building something that reaches past them. A family. A business. A community. A school. A book. Something that keeps helping people once they've left the room.
 
-I used to think success was mostly about achievement. The job. The title. The income. The milestones. Those things matter. But they're not the whole story.
+I used to think success was achievement. The job. The title. The income. The milestones. Those matter. They're not the whole story.
 
-The people who left the biggest mark on my life weren't the richest people I knew. A teacher. A mentor. A coach. Someone who shared what they knew. Someone who helped when they didn't have to. Someone who made the road easier for us.
+The people who left the biggest mark on my life weren't the richest people I knew. A teacher. A mentor. A coach. Someone who shared what they knew. Someone who helped when they didn't have to.
 
-Years later, we're still benefiting from things they gave us. That's a different kind of wealth.
+Years later I'm still living off things they gave me. That's a different kind of wealth.
 
-Eventually, every job ends. Every title disappears. Every paycheck gets spent. Even the things we once worked so hard to get can lose their shine.
+Eventually every job ends. Every title disappears. Every paycheck gets spent. Even the things you worked hardest for lose their shine.
 
-Then the question becomes much simpler: What remains? What did you build? Who did you help? What became better because you were here?
+Then the question gets simpler. What remains? What did you build? Who did you help? What's better because you were here?
 
-Those questions feel heavier to me now. Because money creates options. But impact creates legacy.
+Those questions feel heavier to me now than they used to. Money creates options. Impact creates something that outlasts you.
 
-When you climb, reach back down. Help somebody else. Share what you've learned. Open a door when you can. Encourage someone who is struggling.
+So when you climb, reach back down. Help somebody. Share what you've learned. Open a door when you can. Encourage someone who's struggling.
 
-None of us got here alone. And very little worth building is built alone either.
+None of us got here alone, and very little worth building gets built alone either.
 
-That's probably why the ones we admire most are rarely focused only on themselves. They're building something that extends beyond them. Something that outlasts them.
+#### End Of Part 3
 
-And maybe that's what this whole section has really been about. Not just money. Not just careers. Not just success. Creating something useful. Solving problems. Adding value. Building something that matters. Something that remains long after you're gone.
+Most people think wealth is money. Money is one part of it.
 
-#### End Of Part 3: Building Wealth
+Real wealth includes freedom. Purpose. Contribution. And the people you share it with.
 
-Many people believe wealth is about money.
+Because success means a lot less if you have no one to celebrate it with.
 
-It isn't. Money is only one part of the story.
-
-Real wealth includes freedom. Purpose. Contribution. And the people you share your life with.
-
-Because eventually you discover that success means a lot less if you have no one to celebrate it with.
-
-And that leads to the next part of the journey. Relationships. The people you choose. The people you keep. The people who shape your life. And the people whose lives you help shape in return.
+Which leads to the next part. Relationships. The people you choose. The people you keep. The people whose lives you help shape in return.

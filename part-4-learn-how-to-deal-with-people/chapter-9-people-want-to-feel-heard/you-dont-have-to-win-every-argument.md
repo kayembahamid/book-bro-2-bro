@@ -4,30 +4,28 @@ icon: face-confounded
 
 # You Don’t Have To Win Every Argument
 
-Disagreement isn't always disrespect.
+Disagreement isn't disrespect.
 
-Someone can see the world differently from you without being your enemy. Someone can challenge your opinion without attacking who you are. Someone can disagree and still care about you.
+Someone can see the world differently without being your enemy. Someone can challenge your opinion without attacking you. Someone can disagree and still care about you.
 
-That's something many conversations forget.
+Good people disagree. About money. Politics. Religion. Parenting. Almost everything.
 
-Good people can disagree. On money. Politics. Religion. Parenting. Education. Relationships. Almost everything.
+Two intelligent people can look at the same situation, reach opposite conclusions, and both make a reasonable case.
 
-Two intelligent people can look at the same situation and reach completely different conclusions. And sometimes both can make reasonable arguments.
+That took me time to accept. I used to treat disagreement as a problem needing a solution. A winner. A loser. A correct answer.
 
-That took me time to accept. I used to treat disagreement like a problem. Something that needed to be solved. A winner. A loser. A correct answer.
+Most conversations aren't about winning. They're about understanding.
 
-But many conversations aren't really about winning. They're about understanding.
+The habit that changed mine was getting curious. Instead of defending my position immediately, I started asking. Why do you see it that way? What led you there? What am I missing?
 
-One habit that changed many of my conversations was becoming more curious. Instead of immediately defending my opinion, I started asking questions. Why do you see it that way? What experiences led you to that conclusion? What am I missing?
+Those questions don't mean I agree. They mean I'm trying to understand before I argue. Curiosity teaches you more than certainty does.
 
-Those questions don't mean I agree. They mean I'm trying to understand before I argue. And curiosity often teaches you more than certainty.
+Understanding someone doesn't require agreeing with them. And disagreeing doesn't make you disrespectful. Both are easy to forget once emotions are in the room.
 
-Understanding someone doesn't require agreeing with them. And disagreement doesn't automatically mean disrespect. That's easy to forget when emotions get involved.
+You don't need to win. You don't need to prove you're smarter. You don't need the last word. You certainly don't need everyone thinking the way you do.
 
-You don't need to win every argument. You don't need to prove you're smarter. You don't need to have the last word. And you certainly don't need everybody to think exactly the way you do.
+Some of the best conversations I've had ended in disagreement and respect at the same time. Both of us understood the other better than when we started. That's worth more than winning.
 
-Some of the best conversations I've had ended with disagreement. But also with respect. Both people understood each other better than when the conversation started. That feels more valuable than winning.
-
-The people I respect in a hard conversation stay calm when opinions collide. They listen without getting defensive. They disagree without getting hostile. Who listen without becoming defensive. Who disagree without becoming hostile. Who can protect the relationship while discussing difficult ideas.
+The people I respect in a hard conversation stay calm when opinions collide. They listen without getting defensive. They disagree without getting hostile. They protect the relationship while arguing about the idea.
 
 Communication is learning to stay connected with people who don't think like you.

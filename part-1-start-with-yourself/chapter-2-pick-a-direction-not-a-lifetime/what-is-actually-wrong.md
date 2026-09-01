@@ -5,66 +5,48 @@ icon: award
 
 # What Is Actually Wrong?
 
-At first, it sounded like a university problem.
-
 "I want to quit."
 
-That's what he told me. Not change courses. Not take a break. Quit. Completely.
+Not change courses. Not take a break. Quit. Completely.
 
-But the longer we talked, the clearer it became.
-
-University wasn't the real problem. Programming wasn't the real problem. Software engineering wasn't the real problem.
-
-Fear was.
-
-There was a student I taught for almost two years. Smart kid. Every week he'd tell me about some new technology. New software. New gadgets. New trends.
-
-He eventually went on to study software engineering. I was proud of him.
+I taught him for almost two years. Smart kid. Every week he'd turn up with some new technology to tell me about. New software. New gadgets. New trends. He went on to study software engineering and I was proud of him.
 
 Then the AI boom happened.
 
-One day he messaged me.
-
-"Ham, do you have time to chat?"
+One day a message arrives. "Ham, do you have time to chat?"
 
 "Sure."
 
-A few minutes later, he said something I wasn't expecting.
+A few minutes later: "Ham, I want to quit university. I don't think this degree is worth it anymore."
 
-"Ham, I want to quit university. I don't think this degree is worth it anymore."
-
-So instead of giving advice, I started asking questions.
+So instead of giving advice, I ask questions.
 
 "What exactly is bothering you?"
 
-We talked for a while. About AI. Jobs. The future. What he was worried about.
+We talk for a while. About AI. Jobs. The future. What he's actually worried about.
 
-And slowly, the real problem appeared.
+And slowly the real problem comes up.
 
-He wasn't tired of university. He wasn't tired of programming. He wasn't even tired of software engineering.
+He isn't tired of university. He isn't tired of programming. He isn't even tired of software engineering.
 
-He was scared. Scared that AI would make everything he was learning useless.
+He's scared. Scared that AI is going to make everything he's learning useless.
 
 Those are very different problems.
 
-I've seen this happen many times.
+It's easy to make a huge decision before you understand what's actually bothering you.
 
-It's easy to make a big decision before you understand what's actually bothering you.
+You think: "I hate my degree." You're afraid.
 
-You think: "I hate my degree." When really, you're afraid.
+You think: "I chose the wrong career." You're frustrated.
 
-You think: "I chose the wrong career." When really, you're frustrated.
+You think: "This path isn't for me." You've hit a hard stretch.
 
-You think: "This path is not for me." When really, you've reached a difficult part of the journey.
+So pause before you change everything, and ask: what is actually wrong?
 
-That's why it helps to pause before changing everything.
-
-Ask yourself: "What is actually wrong?"
-
-Am I tired? Am I scared? Am I bored? Am I confused? Am I comparing myself to other people? Am I reacting to one bad season like it's the whole story?
+Am I tired? Am I scared? Am I bored? Am I comparing myself to someone? Am I treating one bad season like it's the whole story?
 
 Sometimes you do need to change direction.
 
-But sometimes the path isn't the problem. The fear is. The pressure is. The lack of support is. The difficult season is.
+But often the path isn't the problem. The fear is. The pressure is. The lack of support is.
 
-We didn't solve his whole future that day. But he stopped talking about quitting. He just needed to name the real fear before he could face it.
+We didn't sort out his whole future that day. He just stopped talking about quitting. He needed to name the real fear before he could face it.

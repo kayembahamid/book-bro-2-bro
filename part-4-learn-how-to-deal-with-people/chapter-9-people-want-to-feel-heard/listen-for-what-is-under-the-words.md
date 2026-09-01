@@ -5,28 +5,26 @@ icon: ear-circle-checkmark
 
 # Listen For What Is Under The Words
 
-#### The Words Are Not Always The Whole Story
-
 "I'm fine."
 
-That sentence doesn't always mean someone is fine. Sometimes it means: "I don't know how to explain this." "I don't want to bother anyone." "I'm embarrassed." "I'm not ready to talk yet."
+That doesn't always mean fine. Sometimes it means "I don't know how to explain this." "I don't want to bother anyone." "I'm embarrassed." "I'm not ready to talk yet."
 
-The words are simple. The meaning underneath may not be.
+The words are simple. What's underneath usually isn't.
 
-People don't always tell you exactly what's wrong. Not because they're trying to be dishonest. At times, they don't know how to explain it. Other times, they're embarrassed. Or they don't want to create conflict. Or they haven't fully understood it themselves yet.
+People don't always tell you what's wrong. Not because they're being dishonest. Sometimes they can't explain it. Sometimes they're embarrassed. Sometimes they don't want the conflict. Sometimes they haven't worked it out themselves.
 
-So instead of saying: "I'm overwhelmed." They say: "I'm just tired." Instead of saying: "I'm disappointed." They become quiet. Instead of saying: "I need help." They insist they're fine.
+So instead of "I'm overwhelmed," you get "I'm just tired." Instead of "I'm disappointed," they go quiet. Instead of "I need help," they insist they're fine.
 
-The words tell part of the story. Not always the whole story.
+The words tell part of it. Rarely all of it.
 
-That's why good communication is about more than hearing words. It's about staying curious. Changes in tone. Changes in behavior. Changes in energy. The things someone suddenly stops talking about. The things they avoid. The things they repeat.
+Which is why good communication is more than hearing. It's staying curious. Changes in tone. Changes in behavior. Changes in energy. The things someone suddenly stops mentioning. The things they avoid. The things they keep coming back to.
 
-It's easy to assume too quickly. They said they're tired, so we think it's only tiredness. They said they're fine, so we leave it there. They said nothing is wrong, so we stop asking.
+It's easy to assume too fast. They said tired, so we decide it's tiredness. They said fine, so we leave it.
 
-But people generally respond better to curiosity than assumptions. Ask gently. Listen a little longer. Give them space to explain.
+People respond better to curiosity than to assumptions. Ask gently. Listen a bit longer. Give them room to explain.
 
-Sometimes a simple "Is everything okay?" opens a conversation. Sometimes it doesn't. But even asking shows that you noticed. And sometimes being noticed is what someone needed first.
+Sometimes "is everything okay?" opens a whole conversation. Sometimes it doesn't. Either way, asking shows you noticed. And being noticed is often what someone needed first.
 
-Understanding another person is rarely about finding the perfect words. It's about paying attention to the whole picture. What they say. What they do. What changes. What stays the same.
+Understanding somebody is rarely about finding the perfect words. It's about paying attention to the whole picture. What they say. What they do. What changed. What didn't.
 
 Communication is understanding the person behind the words. And those aren't always the same thing.

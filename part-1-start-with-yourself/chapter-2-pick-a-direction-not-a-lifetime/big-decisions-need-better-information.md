@@ -5,30 +5,26 @@ icon: square-info
 
 # Big Decisions Need Better Information
 
-It's funny how careful we become when buying a phone.
+It's funny how careful we get about buying a phone.
 
-We watch reviews. Compare prices. Read comments from strangers. Check the camera. The battery. The storage. The color.
+We watch reviews. Compare prices. Read comments from strangers. Check the camera, the battery, the storage, the color.
 
-Then we choose a university. A career. A job. A whole direction for our life.
+Then we pick a university. A career. A whole direction for a life.
 
-With less research than we gave the phone.
+On less research than we gave the phone.
 
-That never made sense to me.
+That never made sense to me. The bigger the decision, the more information you need. Not less.
 
-The bigger the decision, the more information you need. Not less.
+Before you choose a path, talk to someone already walking it. Ask questions. Look at what their life actually looks like, not what social media makes it look like.
 
-Before choosing a path, talk to someone already walking it. Ask questions. Watch what their life actually looks like. Not what social media makes it look like.
+I've lost count of the students who wanted a certain career right up until they spoke to somebody doing it every day. Some came away more interested. Some changed their mind completely.
 
-I can't tell you how many students thought they wanted a certain career until they spoke to somebody doing it every day.
+Both are useful. Better to change your mind after a conversation than after five years.
 
-Sometimes they became even more interested. Sometimes they changed their mind completely.
+You won't get perfect information. Nobody does. You just need enough to stop guessing.
 
-Both outcomes are useful. Because it's much better to change your mind after research than after five years.
+Ask what the work actually feels like. What they enjoy. What's hard. What they wish they'd known before they started. What a normal Tuesday looks like.
 
-You don't need perfect information. You'll never have that. But you need enough to stop guessing blindly.
+Most bad decisions come from missing information, not from being stupid.
 
-Ask what the work actually feels like. Ask what they enjoy. Ask what's difficult. Ask what they wish they knew before they started. Ask what daily life looks like.
-
-Most bad decisions come from missing information.
-
-And sometimes, one honest conversation can save you years of walking in the wrong direction.
+One honest conversation can save you years walking the wrong way.

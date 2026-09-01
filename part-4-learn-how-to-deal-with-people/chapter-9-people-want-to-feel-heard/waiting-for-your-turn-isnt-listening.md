@@ -5,32 +5,32 @@ icon: ear-triangle-exclamation
 
 # Waiting For Your Turn Isn’t Listening
 
-I've caught myself doing this.
+I catch myself doing this.
 
-Someone is talking. I should be listening. But instead, I'm already building my response in my head. My opinion. My story. My advice. The thing I want to say next.
+Someone is talking. I should be listening. Instead I'm already building my response. My opinion. My story. My advice. The thing I want to say next.
 
-The conversation is still happening. Words are still moving. But real listening has already disappeared.
+The conversation is still going. Words are still moving. The listening left a while ago.
 
-That's the strange part. You can be physically present and still not really be there. Nodding. Looking at the person. Maybe even saying the right small words. "Yeah." "I understand." "That makes sense."
+That's the strange part. You can be completely present and not there at all. Nodding. Looking at them. Saying the small right words. "Yeah." "I understand." "That makes sense."
 
-But inside, your mind is somewhere else. Preparing. Comparing. Waiting.
+Inside you're somewhere else. Preparing. Comparing. Waiting.
 
 That isn't listening. That's just waiting for your turn.
 
-I used to think good communication was mostly about speaking clearly. Now I think listening is often the harder skill.
+Speaking clearly is the easy half. Listening is the hard one.
 
-Not hearing. Listening. Hearing means the words reached your ears. Listening means you gave the person enough attention to understand what they meant.
+Not hearing. Listening. Hearing means the words reached your ears. Listening means you gave someone enough attention to understand what they actually meant.
 
-That sounds simple. It isn't. Because many of us want to be understood. We want our ideas heard. Our opinions respected. Our experiences acknowledged. But the person across from us wants the same thing.
+Sounds simple. It isn't, because we all want to be understood. We want our ideas heard, our opinions respected, our experience acknowledged. So does the person opposite.
 
-That's why good listeners stand out. They make people feel heard.
+Which is why good listeners stand out. They make people feel heard.
 
-The ones who build strong relationships are often curious. They ask questions. They pay attention. They don't rush to make every conversation about themselves.
+They're usually curious. They ask questions. They don't rush to make every conversation about themselves. Instead of trying to be the most interesting person in the room, they get interested in everyone else in it.
 
-Instead of trying to be the most interesting person in the room, they become interested in the people around them. And people notice.
+People notice that.
 
-The next time you're talking to someone, try something simple. Listen all the way to the end. Don't interrupt. Don't prepare your response too early. Don't pull the conversation back to yourself. Just pay attention.
+Next time you're talking to someone, try one thing. Listen all the way to the end. Don't interrupt. Don't build your reply too early. Don't pull it back to yourself.
 
 You might be surprised how much you hear when you stop waiting to speak.
 
-A lot of us spend years learning how to talk. Very few of us spend time learning how to listen. But listening is often what builds trust the fastest. Because people rarely remember who talked the most. They remember who made them feel understood.
+We spend years learning to talk and almost none learning to listen. But listening builds trust faster than anything else, because people rarely remember who talked most. They remember who made them feel understood.

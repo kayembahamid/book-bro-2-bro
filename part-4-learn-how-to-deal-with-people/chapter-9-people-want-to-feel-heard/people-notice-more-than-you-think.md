@@ -7,26 +7,24 @@ icon: ear-listen
 
 Communication starts before the first sentence.
 
-Your face. Your tone. Your energy. Your posture. The way you enter the room. The way you look at someone when they're speaking.
+Your face. Your tone. Your energy. The way you walk into a room. The way you look at someone while they're speaking.
 
-People are already receiving a message before you say much.
+People are receiving a message before you've said much of anything.
 
-I learned this clearly from teaching. At first, I thought students paid attention mostly to what I said. The explanation. The instructions. The lesson.
+Teaching taught me that. At first I assumed students were listening to what I said. The explanation. The instructions. The lesson.
 
-But they were paying attention to everything else too. If I looked excited, they noticed. If I looked frustrated, they noticed. If I looked tired, they noticed. Sometimes the mood of the classroom changed before I'd even finished speaking.
+They were watching everything else too. If I looked excited, they noticed. If I looked frustrated, they noticed. If I looked tired, they definitely noticed. Sometimes the mood of the room shifted before I'd finished my first sentence.
 
-That was interesting to watch. Because it reminded me that communication starts long before words.
+You see it everywhere. At work. In interviews. On dates. In meetings.
 
-You see this everywhere. At work. In interviews. On dates. In meetings. In everyday conversations.
+The person across from you is picking up things you're not thinking about. Your tone. Your attention. Your eye contact. Whether you seem interested. Whether you're actually listening.
 
-The person across from you is noticing things you may not be thinking about. Your tone. Your attention. Your eye contact. Whether you seem interested. Whether you seem distracted. Whether you're actually listening.
+It's easy to focus only on what you're going to say. The message often arrives before the words.
 
-It's easy to focus only on what you're going to say. But sometimes the message arrives before the words do.
+You might mean to be friendly, but if you're on your phone the whole time, that's not what lands. You might mean to sound confident, but if you keep undercutting yourself out loud, that sends its own message. You might mean to show interest, but if your attention drifts, people feel it.
 
-You might intend to be friendly. But if you're looking at your phone the whole time, the other person experiences something different. You might intend to sound confident. But if you keep doubting yourself out loud, that sends a message too. You might intend to show interest. But if your attention keeps drifting, people feel that.
+Communication is attention, presence, interest and respect. The signals people pick up from you.
 
-Communication is attention, presence, interest and respect. The signals people receive from you.
+Which is why some people make a strong impression before saying much, and others say all the right things and still can't connect.
 
-That's why some people make a strong impression before they've said very much. And why others can say all the right things but still struggle to connect.
-
-Because people notice more than you think. And they often remember more than you realize.
+People notice more than you think. And they remember longer than you'd expect.

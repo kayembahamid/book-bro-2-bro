@@ -5,26 +5,26 @@ icon: arrows-down-to-people
 
 # The Hardest Problems Involve People
 
-A lot of adult stress has a person attached to it. A difficult customer. An angry manager. An unreliable friend. A demanding client. A disappointed parent. A frustrated partner.
+Most adult stress has a person attached to it. A difficult customer. An angry manager. An unreliable friend. A disappointed parent. A frustrated partner.
 
-The situation may look practical at first. But underneath, it's often about people.
+The situation looks practical at first. Underneath, it's usually about people.
 
 That's what makes life complicated. A computer does what it's told. A person doesn't.
 
-A broken machine can be repaired. A broken relationship is harder. A maths problem usually has an answer. A conflict between two people can have several.
+A broken machine can be repaired. A broken relationship is harder. A maths problem has an answer. A conflict between two people can have several.
 
-The hardest problems in life are rarely only technical problems. They're people problems.
+The hardest problems in life are rarely technical. They're people problems.
 
-No one prepares us for that. School teaches mathematics. Science. History. Geography. But very little time is spent learning how to deal with people. Not perfect people. Real people. Emotional people. Complicated people. People who disappoint us. People who frustrate us. And sometimes people we care deeply about.
+No one prepares us for that. School teaches maths, science, history and geography. Very little time goes on learning how to deal with people. Real people. Emotional, complicated, people who disappoint us and frustrate us. And sometimes people we care deeply about.
 
-A lot of arguments aren't really about the thing on the surface. The dishes. The message that wasn't answered. Who forgot what. Who said what. Who didn't help.
+Most arguments aren't about the thing on the surface. The dishes. The message that went unanswered. Who forgot what. Who didn't help.
 
-Those things may be part of the story. But underneath, something else is often happening. Someone feels ignored. Disrespected. Unheard. Unappreciated.
+Those are part of the story. Underneath, something else is happening. Someone feels ignored. Disrespected. Unheard.
 
-That's why people problems are difficult. You're often dealing with two conversations at the same time. The one happening on the surface. And the one happening underneath it. The surface conversation sounds practical. The deeper one is usually emotional.
+That's what makes people problems hard. You're in two conversations at once. The one on the surface sounds practical. The one underneath is emotional.
 
-That doesn't mean feelings are always right. It means they're part of the problem. And if you ignore them, the problem usually doesn't disappear. It just changes shape.
+That doesn't mean feelings are always right. It means they're part of the problem. Ignore them and the problem doesn't go away. It just changes shape.
 
-Life gets easier when you learn how to solve technical problems. Life gets better when you learn how to understand people.
+Life gets easier when you learn to solve technical problems. Life gets better when you learn to understand people.
 
-And those aren't always the same skill.
+And those aren't the same skill.

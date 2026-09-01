@@ -7,30 +7,28 @@ icon: clipboard-question
 
 Before one of my first interviews, I kept imagining the question that would destroy me.
 
-Some impossible question. Some trick question. Something I'd never prepared for. Something that would make everyone in the room realize I didn't belong there.
+Something impossible. Something I'd never prepared for. Something that would make everyone in the room realize I didn't belong there.
 
-By the time I walked in, the interview had already beaten me in my head.
+By the time I walk in, the interview has already beaten me in my head.
 
-Then the interview started.
+Then it starts.
 
-Most of the questions were surprisingly simple. Tell us about yourself. Why are you interested in this role? What have you worked on? What are you trying to learn?
+Tell us about yourself. Why are you interested in this role? What have you worked on? What are you trying to learn?
 
-I walked out thinking: "That's what I was worried about?"
+I walk out thinking: that's what I was worried about?
 
-Many of us imagine interviews as traps. Like someone is sitting there waiting for us to fail. One bad answer. One awkward pause. One mistake. And suddenly the whole opportunity is gone.
+We imagine interviews as traps. Someone sitting there waiting for us to fail. One bad answer, one awkward pause, and the whole thing is gone.
 
 Most interviews are built to understand you.
 
-Can you learn? Can you explain yourself clearly? Can you be trusted with responsibility? Can you work with others without making things harder?
+Can you learn? Can you explain yourself? Can you be trusted with responsibility? Can you work with people without making things harder?
 
-That's usually what the person across the table is trying to figure out.
+That's what the person across the table is trying to work out.
 
-The calm ones usually just did the homework. They thought about their experiences, learned about the company, understood the role, and brought a few honest questions.They thought about their experiences. Practiced talking about themselves. Learned about the company. Understood the role. Prepared a few honest questions. Showed up ready.
+The calm ones usually just did the homework. They thought about their experiences. Practiced talking about themselves. Learned about the company. Understood the role. Brought a few honest questions.
 
-Interviews are about showing the person across the table that you can think. That you can communicate. That you can learn. That you can be trusted with an opportunity.
+You don't need to know everything. You don't need to perform as somebody else. You need to understand your own story well enough to explain it.
 
-You don't need to pretend you know everything. You don't need to perform like a different person. You just need to understand your own story well enough to explain it clearly.
-
-What have you done? What have you learned? What are you trying to become? Why does this opportunity make sense for you?
+What have you done? What did you learn? What are you trying to become? Why does this make sense for you?
 
 Most interviewers are looking for a real person they can trust.

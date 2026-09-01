@@ -5,27 +5,20 @@ icon: school-flag
 
 # Passing Isn’t The Same As Understanding
 
-I've passed tests I didn't truly understand.
+I've passed tests I didn't understand.
 
-I knew enough to answer the questions. Enough to sound prepared. Enough to get through the exam.
+I knew enough to answer the questions. Enough to sound prepared. Enough to get through the room.
 
-But if someone had asked me to explain the same idea a month later, I probably would have struggled.
+Ask me to explain the same idea a month later and I'd have struggled.
 
-That's the difference school doesn't always show clearly.
+That's the gap school never quite shows you. Passing and understanding look identical on paper. They're nothing alike in real life.
 
-Passing and understanding can look the same on paper. But they're not the same in real life.
+You've done it. Study, memorize, pass, forget it all a few weeks later.
 
-Most of us have done this before. Study. Memorize. Pass the test. Forget everything a few weeks later.
+School rewards memorization. Life rewards understanding.
 
-That's when you start seeing the difference.
+Life doesn't care how much you can repeat. It cares whether you can use it. Explain it. Apply it. Fix something with it.
 
-Passing a test and understanding something aren't always the same thing.
+The lessons that stay are the ones you understood. The conversation that changed how you think. The mistake you never forgot. The moment something finally clicked.
 
-School often rewards memorization. Life rewards understanding.
-
-Life doesn't really care how much information you can repeat. What matters is whether you can use it. Explain it. Apply it. Solve problems with it.
-
-The lessons that stay with you are the ones you understood. The conversation that changed how you think. The mistake you never forgot. The experience that finally made something click.
-
-Memorization helps you pass tests. Understanding helps you navigate life.
-
+Memorization gets you through the test. Understanding lets you use what you know.
