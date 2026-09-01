@@ -42,16 +42,13 @@
   * [Interviews Are Not Traps](part-2-find-your-way-into-the-real-world/chapter-4-put-yourself-where-opportunity-can-see-you/interviews-are-not-traps.md)
 * [Chapter 5 : Your First Job Will Probably Suck](part-2-find-your-way-into-the-real-world/chapter-5-your-first-job-will-probably-suck/README.md)
   * [Pay Attention To How Things Work](part-2-find-your-way-into-the-real-world/chapter-5-your-first-job-will-probably-suck/pay-attention-to-how-things-work.md)
-  * [People Remember More Than Your Work](part-2-find-your-way-into-the-real-world/chapter-5-your-first-job-will-probably-suck/people-remember-more-than-your-work.md)
   * [The Way You Talk Matters](part-2-find-your-way-into-the-real-world/chapter-5-your-first-job-will-probably-suck/the-way-you-talk-matters.md)
   * [Don’t Keep Everything In Your Head](part-2-find-your-way-into-the-real-world/chapter-5-your-first-job-will-probably-suck/dont-keep-everything-in-your-head.md)
   * [Your Reputation Follows You](part-2-find-your-way-into-the-real-world/chapter-5-your-first-job-will-probably-suck/your-reputation-follows-you.md)
 * [Chapter 6 : The Problems Never Stop. They Change.](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./README.md)
   * [The Problems Get Better](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./the-problems-get-better.md)
   * [What If There’s Another Way?](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./what-if-theres-another-way.md)
-  * [Failure Is Information](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./failure-is-information.md)
   * [Don’t Waste The Lesson.](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./dont-waste-the-lesson..md)
-  * [What Is Actually Bothering You?](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./what-is-actually-bothering-you.md)
 
 ## PART 3 : LEARN WHAT MONEY IS REALLY DOING
 
@@ -79,7 +76,6 @@
   * [Avoiding It Does Not Fix It](part-4-learn-how-to-deal-with-people/chapter-9-people-want-to-feel-heard/avoiding-it-does-not-fix-it.md)
   * [You Don’t Have To Win Every Argument](part-4-learn-how-to-deal-with-people/chapter-9-people-want-to-feel-heard/you-dont-have-to-win-every-argument.md)
   * [The Hardest Problems Involve People](part-4-learn-how-to-deal-with-people/chapter-9-people-want-to-feel-heard/the-hardest-problems-involve-people.md)
-  * [Conflict Does Not Mean It Is Broken](part-4-learn-how-to-deal-with-people/chapter-9-people-want-to-feel-heard/conflict-does-not-mean-it-is-broken.md)
   * [Friendships Don’t Stay The Same](part-4-learn-how-to-deal-with-people/chapter-9-people-want-to-feel-heard/friendships-dont-stay-the-same.md)
 * [Chapter 10 : Love Is Not A Life Plan](part-4-learn-how-to-deal-with-people/chapter-10-love-is-not-a-life-plan/README.md)
   * [Don’t Lose Your Direction For Love](part-4-learn-how-to-deal-with-people/chapter-10-love-is-not-a-life-plan/dont-lose-your-direction-for-love.md)
@@ -90,5 +86,4 @@
 ## PART 5 : BECOME SOMEONE YOU RESPECT
 
 * [Who Are You Becoming?](who-are-you-becoming.md)
-* [What kind of person did I become?](what-kind-of-person-did-i-become.md)
 * [Final Letter](final-letter.md)

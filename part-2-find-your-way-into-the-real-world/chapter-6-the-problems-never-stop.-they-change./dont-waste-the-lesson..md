@@ -2,7 +2,7 @@
 icon: comments-question
 ---
 
-# Don’t Waste The Lesson.
+# Don't Waste The Lesson.
 
 "I failed."
 
@@ -16,25 +16,23 @@ I've watched it after exams. After interviews. After rejected applications. Afte
 
 The result hurts, so your mind explains it fast. Maybe I'm not good enough. Maybe this isn't for me.
 
-But a setback isn't always there to define you. Sometimes it's there to teach you.
+But failure doesn't tell you who you are. It tells you what happened.
 
 What went wrong? What did I miss? Where was I unprepared? What warning did I ignore?
 
-Those aren't easy questions to ask while you're disappointed. That's usually where the useful information is hiding.
+Those aren't easy questions while you're disappointed. That's usually where the useful information is hiding.
 
-A failed interview shows you where you were unclear. A bad decision shows you what you rushed. A difficult manager teaches you what communication is worth. A project falling apart shows you where you needed a system.
+A failed interview shows you where you were unclear. A bad decision shows you what you rushed. A project falling apart shows you where you needed a system.
 
 The lesson isn't always obvious. Sometimes you only see it months later.
 
-But if you're paying attention, most setbacks leave something behind.
-
-Failure is the start of a better conversation.
+Failure is feedback. The only question is whether you'll read it.
 
 Don't waste it.
 
 #### End of Part 2
 
-The first stretch of adult life is learning to stand on your own feet. Choosing a direction. Learning quickly. Creating chances. Doing work that matters. Making your name mean something.
+The first stretch of adult life is learning to stand on your own feet. Choosing a direction. Learning quickly. Creating chances. Making your name mean something.
 
 Then another question turns up. How do you turn work into freedom? How do you stop trading every hour just to survive?
 

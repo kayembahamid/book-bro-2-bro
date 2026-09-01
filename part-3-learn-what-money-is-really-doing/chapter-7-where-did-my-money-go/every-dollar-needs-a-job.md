@@ -17,7 +17,7 @@ Everything felt fine right up until something needed repairing, a bill turned up
 
 Making money and managing money are different skills. I wish I'd known that sooner.
 
-It's easy to assume earning more fixes it. Sometimes it does. I've met people earning very little who had everything under control, and people on excellent salaries who were permanently stressed about money.
+It's easy to assume earning more fixes it. I've met people earning very little who had everything under control, and people on excellent salaries who were permanently stressed about money.
 
 The difference usually wasn't income. It was planning.
 
@@ -26,8 +26,6 @@ A budget sounded like a restriction to me. A way of saying no. No fun, no freedo
 Then the motorbike broke down in a month I hadn't planned for.
 
 A budget is just a plan. A way of telling your money where to go before it decides for you.
-
-Financial problems don't send warnings. The phone needs replacing. The unexpected expense arrives. That's when you find out whether you were spending your money or managing it.
 
 The most useful money lesson I picked up, and I didn't invent it, is this: every dollar needs a job.
 

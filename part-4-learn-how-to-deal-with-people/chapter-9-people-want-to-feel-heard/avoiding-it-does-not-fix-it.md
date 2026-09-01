@@ -13,26 +13,26 @@ So you wait.
 
 Waiting feels easier at first. No argument. No tension. No risk of saying it badly.
 
-But things don't disappear just because nobody talks about them. They get heavier.
+But things don't disappear because nobody talks about them. They get heavier.
 
-The hardest conversations aren't with strangers. They're with people we care about. Friends. Family. Partners. Coworkers. The people closest to us are the hardest to be completely honest with.
+The hardest conversations aren't with strangers. They're with people we care about. The ones closest to us are the hardest to be honest with.
 
 Every relationship that matters eventually meets a conversation nobody wants to have. Disappointment. Expectations. Boundaries. Mistakes.
 
-The question isn't whether they happen. It's what happens when they do.
+Nobody has to be in the wrong for it to happen. Sometimes two people just want different things. A life with no conflict would mean nobody cared enough about anything to speak up.
 
-Most people don't avoid hard conversations because they don't care. They avoid them because they do. They don't want to upset anyone, create tension, damage the relationship. So they wait and hope it solves itself.
+The question isn't whether it happens. It's what happens next.
 
-Sometimes it does. Usually it doesn't. The problem sits there. A small misunderstanding becomes frustration. Frustration becomes resentment. Resentment becomes distance.
+Most people don't avoid these conversations because they don't care. They avoid them because they do. They don't want to upset anyone or damage anything, so they wait and hope it solves itself.
 
-That's the trick silence plays. Cheaper now, more expensive later.
+Sometimes it does. Usually it doesn't. A small misunderstanding becomes frustration. Frustration becomes resentment. Resentment becomes distance.
 
-I've watched two good friends lose most of a year to a conversation neither one wanted to start. It would have taken twenty minutes.
+I watched a small disagreement between teammates turn cold. Not because of anything that got said. Because of the week of silence after it.
+
+I've watched two good friends lose most of a year the same way. It would have taken twenty minutes.
 
 Starting it sounds simple. It rarely feels simple when you're inside it.
 
-But avoiding it doesn't make it disappear. It postpones it, and postponed conversations get harder.
-
-Communication isn't always about saying the perfect thing. Sometimes it's about being willing to say the necessary thing.
+The strongest relationships I've seen let people disagree and still protect the relationship. Honestly, respectfully, without trying to destroy each other.
 
 Avoiding it doesn't fix it. Somebody carries the cost later.
