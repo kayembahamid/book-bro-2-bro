@@ -25,7 +25,7 @@ Life doesn't become problem-free.
 
 I've known people with more money than they ever imagined. The problems were still there. I've known people with great careers. Life wasn't suddenly simple. I've known people who seemed to have everything together. They were still carrying something.
 
-That was strangely comforting. Not because I wanted anyone to struggle. But because it reminded me that problems aren't a sign that something has gone wrong. They're part of being alive.
+That was strangely comforting. Not because I wanted anyone to struggle. But because it reminded me that problems are part of being alive.
 
 When I look back, a lot of the things that once felt overwhelming don't feel that way anymore. Not because life became easier. Because I became better at dealing with them.
 

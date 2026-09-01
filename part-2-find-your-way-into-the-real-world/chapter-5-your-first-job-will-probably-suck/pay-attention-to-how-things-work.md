@@ -11,7 +11,7 @@ Being new at work is strange.
 
 You're trying to do the job. But you're also trying to understand the room. Who needs to be updated? Who makes decisions? What matters here? What annoys people? What do people expect without saying?
 
-Nobody tells you everything. You have to notice.
+No one tells you everything. You have to notice.
 
 That was one of the first things work taught me.
 

@@ -5,7 +5,7 @@ icon: book
 
 # Chapter 2 : Pick A Direction, Not A Lifetime
 
-### &#x20;What If I Pick The Wrong Path? (chapter intro)
+### &#x20;What If I Pick The Wrong Path?&#x20;
 
 "Ham, what if I pick the wrong path?"
 

@@ -26,8 +26,8 @@ But some problems come because your life is expanding. You're learning more. Car
 
 When I look back, some of the hardest periods of my life were also the periods where I learned the most. Not because they were easy. Because they forced me to adapt.
 
-Problems aren't always a sign that something is wrong. Sometimes they're a sign that something is changing.
+Problems are usually a sign that something is changing.
 
-The goal isn't reaching a point where life becomes easy. The goal is becoming the kind of person who can handle bigger challenges.
+The goal is becoming the kind of person who can handle bigger challenges.
 
 Because success doesn't remove problems. It usually replaces them with better ones.

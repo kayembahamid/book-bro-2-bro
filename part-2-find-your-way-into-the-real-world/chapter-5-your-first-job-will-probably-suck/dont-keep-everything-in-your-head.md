@@ -29,4 +29,4 @@ Work teaches you this quickly. You're not trusted only because you're talented. 
 
 The ones others rely on aren't always the ones with the best memory. They're often the ones who write things down.
 
-Because reliability isn't about having the best memory. It's about making sure the important things don't get lost.
+Reliability is making sure the important things don't get lost.

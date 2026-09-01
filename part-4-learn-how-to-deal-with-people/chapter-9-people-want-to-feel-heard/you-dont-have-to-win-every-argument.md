@@ -30,4 +30,4 @@ Some of the best conversations I've had ended with disagreement. But also with r
 
 The people I respect most in difficult conversations are rarely the loudest. They're the ones who stay calm when opinions collide. Who listen without becoming defensive. Who disagree without becoming hostile. Who can protect the relationship while discussing difficult ideas.
 
-Because communication isn't about getting everyone to think like you. It's about learning how to stay connected with people who don't.
+Communication is learning to stay connected with people who don't think like you.

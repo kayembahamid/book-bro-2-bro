@@ -19,7 +19,7 @@ I walked out thinking: "That's what I was worried about?"
 
 Many of us imagine interviews as traps. Like someone is sitting there waiting for us to fail. One bad answer. One awkward pause. One mistake. And suddenly the whole opportunity is gone.
 
-But most interviews aren't built to trap you. They're built to understand you.
+Most interviews are built to understand you.
 
 Can you learn? Can you explain yourself clearly? Can you be trusted with responsibility? Can you work with others without making things harder?
 
@@ -27,10 +27,10 @@ That's usually what the person across the table is trying to figure out.
 
 The ones who seem calm in interviews aren't always the smartest. A lot of the time, they're just prepared. They thought about their experiences. Practiced talking about themselves. Learned about the company. Understood the role. Prepared a few honest questions. Showed up ready.
 
-That matters because interviews aren't only about polished answers. They're about showing the person across the table that you can think. That you can communicate. That you can learn. That you can be trusted with an opportunity.
+Interviews are about showing the person across the table that you can think. That you can communicate. That you can learn. That you can be trusted with an opportunity.
 
 You don't need to pretend you know everything. You don't need to perform like a different person. You just need to understand your own story well enough to explain it clearly.
 
 What have you done? What have you learned? What are you trying to become? Why does this opportunity make sense for you?
 
-Most interviewers aren't looking for a flawless answer. They're looking for a real person they can trust.
+Most interviewers are looking for a real person they can trust.

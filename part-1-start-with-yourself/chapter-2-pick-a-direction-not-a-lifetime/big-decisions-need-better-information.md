@@ -29,6 +29,6 @@ You don't need perfect information. You'll never have that. But you need enough 
 
 Ask what the work actually feels like. Ask what they enjoy. Ask what's difficult. Ask what they wish they knew before they started. Ask what daily life looks like.
 
-Bad decisions aren't always caused by a lack of intelligence. Sometimes they're caused by a lack of information.
+Most bad decisions come from missing information.
 
 And sometimes, one honest conversation can save you years of walking in the wrong direction.

@@ -15,7 +15,7 @@ A broken machine can be repaired. A broken relationship is harder. A maths probl
 
 The hardest problems in life are rarely only technical problems. They're people problems.
 
-Nobody really prepares us for that. School teaches mathematics. Science. History. Geography. But very little time is spent learning how to deal with people. Not perfect people. Real people. Emotional people. Complicated people. People who disappoint us. People who frustrate us. And sometimes people we care deeply about.
+No one prepares us for that. School teaches mathematics. Science. History. Geography. But very little time is spent learning how to deal with people. Not perfect people. Real people. Emotional people. Complicated people. People who disappoint us. People who frustrate us. And sometimes people we care deeply about.
 
 A lot of arguments aren't really about the thing on the surface. The dishes. The message that wasn't answered. Who forgot what. Who said what. Who didn't help.
 

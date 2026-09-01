@@ -25,6 +25,6 @@ The question is whether you're willing to look at it.
 
 Because every setback carries information. What worked? What didn't? What should I do differently next time?
 
-Failure isn't a verdict. It's feedback.
+Failure is feedback.
 
 The only question is whether you'll read it.

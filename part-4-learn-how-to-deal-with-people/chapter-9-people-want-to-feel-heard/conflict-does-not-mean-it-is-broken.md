@@ -9,7 +9,7 @@ The disagreement isn't always what damages the relationship. Sometimes it's what
 
 The silence. The defensiveness. The attack. The avoiding. The pretending everything is fine while resentment grows.
 
-That's where many relationships begin to suffer. Not because two people disagreed. But because nobody knew how to handle the disagreement well.
+That's where many relationships begin to suffer. Not because two people disagreed. But because no one knew how to handle the disagreement.
 
 I've seen a small disagreement between teammates turn cold, not because of what was said, but because of the week of silence that followed.
 
@@ -17,7 +17,7 @@ Good relationships aren't conflict-free. Good friends still disagree. Good coupl
 
 Different goals create friction. You want to save money. Your friend wants to go out. Your manager wants speed. You want more time. Your partner wants attention. You want space.
 
-Nobody has to be evil for conflict to appear. Sometimes people simply want different things. That doesn't mean something is broken. It usually means real people are involved.
+No one has to be evil for conflict to appear. Sometimes people simply want different things. That doesn't mean something is broken. It usually means real people are involved.
 
 A life with no conflict would mean no one had opinions, preferences, needs or boundaries. It would mean nobody cared about anything enough to speak up. That's not real life.
 

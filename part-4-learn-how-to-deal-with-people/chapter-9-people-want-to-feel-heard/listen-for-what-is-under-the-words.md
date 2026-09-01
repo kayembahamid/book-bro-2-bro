@@ -29,4 +29,4 @@ Sometimes a simple "Is everything okay?" opens a conversation. Sometimes it does
 
 Understanding another person is rarely about finding the perfect words. It's about paying attention to the whole picture. What they say. What they do. What changes. What stays the same.
 
-Because communication isn't just hearing words. It's understanding the person behind them. And those aren't always the same thing.
+Communication is understanding the person behind the words. And those aren't always the same thing.

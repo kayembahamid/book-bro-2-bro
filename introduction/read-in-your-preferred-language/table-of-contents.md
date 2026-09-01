@@ -29,7 +29,7 @@ Chapter 5\
 Your First Job Will Probably Suck
 
 Chapter 6\
-Value Starts With A Problem
+The Problems Never Stops, They Change
 
 ### PART 3
 

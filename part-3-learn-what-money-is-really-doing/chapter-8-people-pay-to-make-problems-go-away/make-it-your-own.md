@@ -29,6 +29,6 @@ A lot of the things I create don't come from sitting in a room waiting for inspi
 
 That's why I keep notes. Ideas tend to bump into each other. And when they do, something new can appear.
 
-The interesting thing is that two people can learn from the same source and create completely different things. Because the difference isn't only the source. It's the person. Their experiences. Their questions. Their taste. Their pain. Their way of seeing the world.
+The interesting thing is that two people can learn from the same source and create completely different things. The difference is the person. Their experiences. Their questions. Their taste.
 
 That's where originality usually lives. Not in creating something from nothing. But in taking what you've learned and making it your own.

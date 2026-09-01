@@ -29,4 +29,4 @@ That lesson applies beyond business. In your career, people don't only care what
 
 It's easy to spend a lot of time talking about what something is. The features. The details. The effort. The plan. But the person listening is usually wondering: "What does this change?"
 
-Because at the end of the day, the feature isn't the point. The effort isn't the point. The result is.
+The result is the point.

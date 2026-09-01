@@ -13,7 +13,7 @@ That question matters because it's easy to confuse love with intensity. Attracti
 
 At first, it can feel deep. Like the emotions are strong. Like the relationship must be important because it takes up so much space in your mind. But sometimes it isn't love. Sometimes it's exhaustion.
 
-The right person won't make your life perfect. Nobody can do that. But the right person shouldn't make your life feel constantly unstable either.
+The right person won't make your life perfect. No one can. But the right person shouldn't make your life feel constantly unstable either.
 
 You shouldn't spend every day wondering where you stand. You shouldn't feel like you have to beg for basic care. You shouldn't lose your peace just to keep someone close.
 
@@ -37,8 +37,8 @@ That's why you shouldn't rush permanent decisions just because emotions feel urg
 
 So before you build a life with someone, be honest about the things that last. Trust. Respect. Safety. Whether you can solve problems together. Whether you're walking in the same direction.
 
-Because love isn't only choosing someone you enjoy. It's choosing someone you can build with. Someone who brings peace. Not constant confusion. Someone whose character still makes sense after the excitement fades.
+Love is choosing someone you can build with. Someone who brings peace. Not constant confusion. Someone whose character still makes sense after the excitement fades.
 
-Love is beautiful. But healthy love isn't just intensity. It's respect. Safety. Patience. Responsibility. Trust. Effort. Two imperfect people learning how to choose each other well.
+Love is beautiful. Healthy love is respect, safety, patience, trust and effort. Two imperfect people learning how to choose each other well.
 
 Not only when it feels exciting. But when real life arrives.

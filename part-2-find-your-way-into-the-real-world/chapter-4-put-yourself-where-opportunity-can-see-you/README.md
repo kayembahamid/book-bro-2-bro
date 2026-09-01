@@ -17,7 +17,7 @@ I learned that when I started applying for my first jobs.
 
 I sent out applications. Then waited. Nothing. No replies. No interviews. No calls.
 
-At first, I was frustrated. I kept checking my email. Refreshing my inbox. Wondering why nobody was responding.
+At first, I was frustrated. I kept checking my email. Refreshing my inbox. Wondering why no one was replying.
 
 Then it hit me. No one knew who I was. There was no office somewhere with a person looking for Ham, digging through CVs for my name.
 
@@ -27,7 +27,7 @@ A lot of us leave school thinking life works the same way school does. A teacher
 
 Then school ends. And suddenly the structure disappears. No reminders. No instructions. No next chapter.
 
-You have to start looking. You have to introduce yourself. You have to send the application. You have to follow up. You have to keep going when nobody replies.
+You have to start looking. You have to introduce yourself. You have to send the application. You have to follow up. You have to keep going when no one replies.
 
 That's the part a lot of us aren't prepared for.
 

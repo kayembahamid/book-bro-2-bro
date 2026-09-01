@@ -29,6 +29,6 @@ That's even more true now. Messages get saved. Screenshots exist. Posts get shar
 
 So I try to pause more than I used to. Especially when I'm angry. Frustrated. Or emotional. Not because I always get it right. I don't. But because words spoken in a moment can last much longer than the feeling that created them.
 
-Communication isn't only a speaking skill. It's a relationship skill. Words do more than share information. They build trust. Create distance. Repair damage. Strengthen connection. Or weaken it.
+Communication is a relationship skill. Words do more than share information. They build trust. Create distance. Repair damage. Strengthen connection. Or weaken it.
 
 And long after the conversation is over, people often remember how your words made them feel.

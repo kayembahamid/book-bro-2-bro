@@ -7,7 +7,7 @@ icon: user-visor
 
 ### Who Are You Becoming?
 
-There is one person you take into every room. Every job. Every relationship. Every success. Every mistake. Every private decision nobody else sees.
+There is one person you take into every room. Every job. Every relationship. Every success. Every mistake. Every private decision no one else sees.
 
 You.
 
@@ -23,7 +23,7 @@ You.
 
 And eventually, you discover that life isn't only about building a career. Or building wealth. Or building relationships. It's also about building character.
 
-Because character is the one thing you carry into everything. Every chance. Every setback. Every relationship. The decisions nobody else sees.
+Because character is the one thing you carry into everything. Every chance. Every setback. Every relationship.
 
 That's why this question matters. Not only: "What do I want?" But: "Who am I becoming while I chase it?"
 
@@ -33,7 +33,7 @@ It's possible to earn more money and lose your peace. It's possible to build a c
 
 That's why achievement can't be the only measure. The life you build matters. But the person you become while building it matters too.
 
-Your habits. Your honesty. Your discipline. Your patience. Your courage. Your kindness. Your ability to keep your word when nobody is watching.
+Your habits. Your honesty. Your discipline. Your patience. Your courage. Your kindness. Your ability to keep your word when no one is watching.
 
 Those things may not look impressive at first. They don't always get applause. They don't always make noise. But over time, they become the foundation of your life.
 

@@ -27,7 +27,7 @@ The world starts looking less like a collection of products. And more like a col
 
 Every book exists because someone decided to write it. Every business exists because someone decided to start it. Every tool exists because someone saw a problem and tried to solve it.
 
-That doesn't mean you need to become an entrepreneur. That's not the point. The point is that creating something changes the way you think.
+Creating something changes how you think. You don't have to become an entrepreneur for that to be true.
 
 Instead of only asking: "What can I get?" You start asking: "What can I contribute?"
 

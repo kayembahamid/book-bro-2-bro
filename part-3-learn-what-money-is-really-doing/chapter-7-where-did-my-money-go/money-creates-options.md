@@ -11,21 +11,23 @@ I like asking students that question. The room usually wakes up immediately. Tra
 
 The answers come quickly.
 
-But the interesting part isn't the money. It's what the answers reveal.
+The interesting part is what the answers reveal.
 
 No one wants the paper. Nobody gets excited about a number sitting in an account.
 
 What they want is what the money can do. Freedom. Security. Choices. Experiences. Time.
 
-That's the part many of us forget. Money itself isn't the goal. It's a tool.
+That's the part many of us forget. Money is a tool.
 
-A hammer isn't valuable just because it exists. It's valuable because of what it helps you build. Money works the same way.
+A hammer is valuable because of what it helps you build. Money works the same way.
 
 One mistake we can make is turning money into the destination. More. More. More. Without ever stopping to ask why.
 
 More for what? More freedom? More security? More time with family? More chances to build something? More breathing room when life gets difficult?
 
-When you look closely, most people aren't chasing money itself. They're chasing what money can provide. The ability to choose. The ability to say no. The ability to help the people they care about. The ability to take a chance when it appears. The ability to sleep a little easier at night.
+Most people are chasing what money can provide.
+
+The ability to choose. The ability to say no. The ability to help the people they care about. The ability to take a chance when it appears. The ability to sleep a little easier at night.
 
 Money creates options. And options create freedom.
 

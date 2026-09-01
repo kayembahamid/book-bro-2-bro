@@ -8,9 +8,9 @@
 ## Introduction
 
 * [Ham, Can I Ask You Something?](introduction/ham-can-i-ask-you-something.md)
-* [Read in Your Preferred language](introduction/read-in-your-preferred-language.md)
+* [Read in Your Preferred language](introduction/read-in-your-preferred-language/README.md)
+  * [Table of Contents](introduction/read-in-your-preferred-language/table-of-contents.md)
 * [Read it via an App](introduction/read-it-via-an-app.md)
-* [Table of Contents](introduction/table-of-contents.md)
 
 ## PART 1 : START WITH YOURSELF
 
@@ -47,11 +47,11 @@
   * [Don’t Keep Everything In Your Head](part-2-find-your-way-into-the-real-world/chapter-5-your-first-job-will-probably-suck/dont-keep-everything-in-your-head.md)
   * [Your Reputation Follows You](part-2-find-your-way-into-the-real-world/chapter-5-your-first-job-will-probably-suck/your-reputation-follows-you.md)
 * [Chapter 6 : The Problems Never Stop. They Change.](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./README.md)
-  * [What Is Actually Bothering You?](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./what-is-actually-bothering-you.md)
   * [The Problems Get Better](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./the-problems-get-better.md)
   * [What If There’s Another Way?](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./what-if-theres-another-way.md)
   * [Failure Is Information](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./failure-is-information.md)
   * [Don’t Waste The Lesson.](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./dont-waste-the-lesson..md)
+  * [What Is Actually Bothering You?](part-2-find-your-way-into-the-real-world/chapter-6-the-problems-never-stop.-they-change./what-is-actually-bothering-you.md)
 
 ## PART 3 : LEARN WHAT MONEY IS REALLY DOING
 

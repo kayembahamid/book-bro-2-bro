@@ -23,7 +23,7 @@ When I started writing books, I spent a lot of time thinking about the finished 
 
 What I didn't think about as much was the cost. The late nights. The weekends. The self-doubt. The time I could have spent doing something easier.
 
-Nobody really posts that part.
+Nobody posts that part.
 
 One of my colleagues at work once talked about starting a business.
 

@@ -13,7 +13,7 @@ So you wait.
 
 At first, waiting feels easier. No argument. No tension. No risk of saying the wrong thing. No difficult moment.
 
-But some things don't disappear because nobody talks about them. They just get heavier.
+But some things don't disappear just because no one talks about them. They just get heavier.
 
 Some of the hardest conversations in life aren't with strangers. They're with people we care about. Friends. Family. Partners. Coworkers.
 

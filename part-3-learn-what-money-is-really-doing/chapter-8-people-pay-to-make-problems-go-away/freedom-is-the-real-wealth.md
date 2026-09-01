@@ -21,7 +21,7 @@ Money is usually helping people buy something else. Options. The room to say yes
 
 That's why two people can earn the same amount and feel completely different. One feels trapped. The other feels free. The difference isn't always income. Sometimes it's what happened to the money after it arrived.
 
-Chapter 7 was about where your money goes. This is about what the money you keep quietly buys you.
+This is about what the money you keep quietly buys you.
 
 Saved money creates choices for your future self. Not immediately. Slowly. A little at a time.
 
@@ -31,6 +31,6 @@ What it rarely shows is freedom. The freedom to walk away. The freedom to wait. 
 
 The more I meet people and watch how life works, the more I believe real wealth is quieter than it looks.
 
-Wealth isn't really a number. It's freedom.
+Wealth is freedom.
 
-Because money isn't the goal. What money allows you to do is.
+What money lets you do is the goal.

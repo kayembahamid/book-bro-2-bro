@@ -42,6 +42,6 @@ It isn't. Money is only one part of the story.
 
 Real wealth includes freedom. Purpose. Contribution. And the people you share your life with.
 
-Because eventually you discover that success becomes much less meaningful if you have nobody to celebrate it with.
+Because eventually you discover that success means a lot less if you have no one to celebrate it with.
 
 And that leads to the next part of the journey. Relationships. The people you choose. The people you keep. The people who shape your life. And the people whose lives you help shape in return.

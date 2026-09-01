@@ -17,7 +17,7 @@ That's where people can get stuck. They stop looking at what's happening in fron
 
 That's a dangerous place to live. Because it's possible to fall in love with potential. Who someone could become. How they might change. The future they keep describing. The version of them you keep hoping will appear.
 
-But a relationship isn't built with potential alone. It's built with the person standing in front of you. The person you're actually with. The person who keeps showing you patterns.
+A relationship is built with the person standing in front of you. The person you're actually with. The person who keeps showing you patterns.
 
 Everybody makes mistakes. Everybody has bad days. Everybody has things they're working on. That's normal. But patterns matter.
 
@@ -33,7 +33,7 @@ One of the hardest things to admit is that a relationship isn't healthy. Especia
 
 Hope can keep people in places they already know are hurting them.
 
-But love isn't just what someone says. It's what they keep showing you.
+Love is what someone keeps showing you.
 
 Healthy relationships are built on reality. Not fantasy. Not promises. Not potential alone. Potential matters. But behavior matters more. Character matters more. Patterns matter more.
 

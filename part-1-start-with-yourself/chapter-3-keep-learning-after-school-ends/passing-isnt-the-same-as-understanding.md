@@ -25,6 +25,7 @@ School often rewards memorization. Life rewards understanding.
 
 Life doesn't really care how much information you can repeat. What matters is whether you can use it. Explain it. Apply it. Solve problems with it.
 
-The lessons that stay with you are usually not the things you memorized for one exam. They're the things you understood. The conversation that changed how you think. The mistake you never forgot. The experience that finally made something click.
+The lessons that stay with you are the ones you understood. The conversation that changed how you think. The mistake you never forgot. The experience that finally made something click.
 
 Memorization helps you pass tests. Understanding helps you navigate life.
+

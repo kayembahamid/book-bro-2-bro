@@ -9,7 +9,7 @@ icon: hands-holding-child
 
 That sentence has ended more dreams than it should.
 
-Not because money isn't a real problem. It is.
+Money is a real problem. I'm not pretending it isn't.
 
 But sometimes we say it too early. Before looking for free resources. Before asking questions. Before searching for another way. Before finding out if the thing we want is really blocked.
 

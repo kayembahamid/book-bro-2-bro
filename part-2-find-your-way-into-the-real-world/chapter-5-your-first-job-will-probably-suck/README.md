@@ -1,11 +1,9 @@
 ---
-description: 'Work: (Workplace survival)'
+description: (Workplace survival)
 icon: book
 ---
 
 # Chapter 5 : Your First Job Will Probably Suck
-
-### Your First Job Will Probably Suck (chapter intro)
 
 The first job has a way of humbling you.
 
@@ -31,4 +29,4 @@ At the time, I thought I was just doing a job. Years later, I realized I was lea
 
 Your first job may not be the job you wanted. But it can still teach you things you'll need later.
 
-Sometimes the most valuable thing you take from a job isn't the paycheck. It's the person you become while doing it.
+The most valuable thing you take from a job is the person you become while doing it.

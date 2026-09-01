@@ -25,7 +25,7 @@ It's easy to focus only on what you're going to say. But sometimes the message a
 
 You might intend to be friendly. But if you're looking at your phone the whole time, the other person experiences something different. You might intend to sound confident. But if you keep doubting yourself out loud, that sends a message too. You might intend to show interest. But if your attention keeps drifting, people feel that.
 
-Communication isn't only about words. It's about attention. Presence. Interest. Respect. The signals people receive from you.
+Communication is attention, presence, interest and respect. The signals people receive from you.
 
 That's why some people make a strong impression before they've said very much. And why others can say all the right things but still struggle to connect.
 

@@ -23,7 +23,7 @@ The friendships that survive are usually not the ones that happened automaticall
 
 Friendships don't usually disappear all at once. They fade quietly. One missed message. One cancelled plan. One busy month. One life change. Then another.
 
-Nobody has to hate anybody. Life just starts pulling people in different directions. That doesn't mean the friendship wasn't real. It means relationships need care if they're going to keep growing.
+No one has to hate anybody. Life just starts pulling people in different directions. That doesn't mean the friendship wasn't real. It means relationships need care if they're going to keep growing.
 
 Small things matter. Checking in. Remembering. Showing up. Making time. Saying: "I still care."
 

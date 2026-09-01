@@ -27,7 +27,7 @@ Sometimes a chance appears because of a skill. Sometimes it appears because some
 
 That's why reputation is built long before you need it.
 
-People are always forming an opinion. Not always loudly. Not always officially. But they notice. How you work. How you speak. How you handle mistakes. How you treat others when nobody important is watching.
+People are always forming an opinion. Not always loudly. Not always officially. But they notice. How you work. How you speak. How you handle mistakes. How you treat people when no one important is watching.
 
 The impression you leave doesn't require anything complicated.
 

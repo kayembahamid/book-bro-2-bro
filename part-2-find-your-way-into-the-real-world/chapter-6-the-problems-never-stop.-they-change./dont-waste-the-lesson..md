@@ -28,7 +28,7 @@ The lesson isn't always obvious. It can take time. You may only understand it mo
 
 But if you're willing to pay attention, most setbacks leave something behind. A lesson. A warning. A better way of doing things next time.
 
-Failure isn't the end of the conversation. It's the start of a better one.
+Failure is the start of a better conversation.
 
 Don't waste it.
 

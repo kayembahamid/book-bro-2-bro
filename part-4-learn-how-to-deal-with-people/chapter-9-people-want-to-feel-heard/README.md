@@ -27,7 +27,7 @@ Teaching has shown me this many times. Students don't remember every word you sa
 
 Those things stay.
 
-Communication isn't only about talking. It's about connection. Talking is easy. Connection takes effort. It requires attention. Curiosity. Patience. And a genuine interest in the person sitting across from you.
+Communication is connection. Talking is easy. Connection takes effort. It requires attention. Curiosity. Patience. And a genuine interest in the person sitting across from you.
 
 That's why some people build strong relationships wherever they go. Not because they're the funniest. Or the loudest. Or the most charismatic. But because people feel safe talking to them. They feel heard.
 

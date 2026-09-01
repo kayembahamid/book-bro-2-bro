@@ -9,7 +9,7 @@ Every job leaves something behind.
 
 Not just money. Not just experience. Not just another line on your CV. It leaves an impression. What your name means to someone. Whether you made things easier. Whether you could be trusted. Whether someone would want to work with you again.
 
-Potential means very little if nobody has seen it.
+Potential means very little if no one has seen it.
 
 I've worked with smart people. Talented people. Capable people. People with great ideas. But when chances appeared, they didn't always get them.
 
@@ -17,7 +17,7 @@ At first, I thought promotions were mostly about talent. Then work showed me som
 
 People promote who they trust. Can they rely on you? Can they give you responsibility? Can they count on you when things get difficult?
 
-That's what the people around you are really paying attention to. Not just what you can do. But whether they trust you to do it.
+What they're actually watching is whether they can trust you to do it.
 
 Your reputation follows you.
 
