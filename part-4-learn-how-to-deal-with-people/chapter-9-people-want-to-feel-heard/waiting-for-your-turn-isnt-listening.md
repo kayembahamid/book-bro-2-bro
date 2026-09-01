@@ -1,5 +1,5 @@
 ---
-description: Listening l
+description: Listening
 icon: ear-triangle-exclamation
 ---
 
@@ -23,7 +23,7 @@ Not hearing. Listening. Hearing means the words reached your ears. Listening mea
 
 That sounds simple. It isn't. Because many of us want to be understood. We want our ideas heard. Our opinions respected. Our experiences acknowledged. But the person across from us wants the same thing.
 
-That's why good listeners stand out. Not because they're smarter. Not because they're louder. Not because they're more charismatic. But because they make people feel heard.
+That's why good listeners stand out. They make people feel heard.
 
 The ones who build strong relationships are often curious. They ask questions. They pay attention. They don't rush to make every conversation about themselves.
 

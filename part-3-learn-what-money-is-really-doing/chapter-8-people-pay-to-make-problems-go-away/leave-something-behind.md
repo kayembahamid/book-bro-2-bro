@@ -16,7 +16,7 @@ The people who leave the biggest impression often have something else. They're b
 
 I used to think success was mostly about achievement. The job. The title. The income. The milestones. Those things matter. But they're not the whole story.
 
-The people who leave the biggest mark on our lives aren't always the richest ones we know. Sometimes it's a teacher. A mentor. A parent. A coach. Someone who shared what they knew. Someone who helped when they didn't have to. Someone who made the road easier for us.
+The people who left the biggest mark on my life weren't the richest people I knew. A teacher. A mentor. A coach. Someone who shared what they knew. Someone who helped when they didn't have to. Someone who made the road easier for us.
 
 Years later, we're still benefiting from things they gave us. That's a different kind of wealth.
 

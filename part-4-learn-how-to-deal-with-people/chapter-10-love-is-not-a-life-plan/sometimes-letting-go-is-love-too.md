@@ -43,7 +43,7 @@ Before holding on, it helps to ask honest questions. Is trust being rebuilt, or 
 
 There's no perfect formula. Relationships aren't mathematics. But some answers become clearer when you stop arguing with reality.
 
-The relationships that survive difficult seasons aren't the ones where nothing goes wrong. They're the ones where both people are willing to grow. Together. But a relationship can't survive on effort from one person forever.
+The relationships that survive a hard season are the ones where both people keep growing. But a relationship can't survive on effort from one person forever. Together. But a relationship can't survive on effort from one person forever.
 
 Sometimes the healthiest decision is also the most painful one. To let go. Not because the relationship meant nothing. Not because you stopped caring. But because you've accepted what's real.
 

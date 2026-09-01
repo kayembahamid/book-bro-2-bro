@@ -28,6 +28,6 @@ You don't need to win every argument. You don't need to prove you're smarter. Yo
 
 Some of the best conversations I've had ended with disagreement. But also with respect. Both people understood each other better than when the conversation started. That feels more valuable than winning.
 
-The people I respect most in difficult conversations are rarely the loudest. They're the ones who stay calm when opinions collide. Who listen without becoming defensive. Who disagree without becoming hostile. Who can protect the relationship while discussing difficult ideas.
+The people I respect in a hard conversation stay calm when opinions collide. They listen without getting defensive. They disagree without getting hostile. Who listen without becoming defensive. Who disagree without becoming hostile. Who can protect the relationship while discussing difficult ideas.
 
 Communication is learning to stay connected with people who don't think like you.

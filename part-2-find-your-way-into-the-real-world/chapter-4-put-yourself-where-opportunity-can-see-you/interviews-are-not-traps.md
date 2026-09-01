@@ -25,7 +25,7 @@ Can you learn? Can you explain yourself clearly? Can you be trusted with respons
 
 That's usually what the person across the table is trying to figure out.
 
-The ones who seem calm in interviews aren't always the smartest. A lot of the time, they're just prepared. They thought about their experiences. Practiced talking about themselves. Learned about the company. Understood the role. Prepared a few honest questions. Showed up ready.
+The calm ones usually just did the homework. They thought about their experiences, learned about the company, understood the role, and brought a few honest questions.They thought about their experiences. Practiced talking about themselves. Learned about the company. Understood the role. Prepared a few honest questions. Showed up ready.
 
 Interviews are about showing the person across the table that you can think. That you can communicate. That you can learn. That you can be trusted with an opportunity.
 

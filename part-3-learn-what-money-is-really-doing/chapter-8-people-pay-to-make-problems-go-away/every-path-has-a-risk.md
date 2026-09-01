@@ -30,7 +30,7 @@ But learning before you leap is different. Testing an idea before committing to 
 
 Most meaningful things come with some uncertainty. The first job. The first business. The first investment. The first move. The first big decision.
 
-No one feels completely ready. The people who move forward aren't always fearless. They're often just willing to learn while moving.
+No one feels completely ready. Most people who move forward are scared. They just learn while they move.
 
 Looking back, many of the decisions that changed my life came with no guarantees. Growth rarely arrives with guarantees. Neither do chances.
 

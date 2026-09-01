@@ -25,6 +25,6 @@ But once you notice it, you're responsible for learning. Who should I tell befor
 
 That's the part many young people miss at first. Doing the job is one thing. Learning how the workplace works is another.
 
-The ones who grow fastest aren't always the smartest. They're usually the ones paying attention.
+The people who grow fastest are the ones paying attention.
 
 Looking back, my first job wasn't only teaching me tasks. It was teaching me how to notice things.

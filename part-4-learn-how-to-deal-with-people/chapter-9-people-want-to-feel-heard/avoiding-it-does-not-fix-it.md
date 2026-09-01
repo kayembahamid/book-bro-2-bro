@@ -31,8 +31,6 @@ That's the strange thing about silence. It often feels easier in the moment. But
 
 I've watched two good friends lose most of a year to a conversation neither one wanted to start.
 
-The strongest relationships I've seen aren't the ones without conflict. They're the ones where people are willing to talk through it. Honestly. Respectfully. Without trying to win. Just trying to understand.
-
 That sounds simple. It rarely feels simple when you're inside the conversation.
 
 But avoiding it usually doesn't make it disappear. It just postpones it. And postponed conversations tend to become harder conversations.

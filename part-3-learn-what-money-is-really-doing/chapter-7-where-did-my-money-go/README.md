@@ -3,7 +3,7 @@ description: spending, buying
 icon: book
 ---
 
-# Chapter 7 :  Where Did My Money Go?
+# Chapter 7 : Where Did My Money Go?
 
 ### Where Did My Money Go?&#x20;
 
@@ -25,7 +25,7 @@ That's what surprised me. I wasn't losing money in one big decision. I was losin
 
 At school, we spend years learning mathematics. But very little time learning how money actually works.
 
-Then one day school ends. Money starts flowing in and out of your life. Rent. Bills. Taxes. Responsibilities. And somehow you're expected to know what you're doing.
+The people in control of their money know where it goes. That's the whole difference.
 
 I certainly didn't. I knew how much I earned. I had no idea how much I spent.
 

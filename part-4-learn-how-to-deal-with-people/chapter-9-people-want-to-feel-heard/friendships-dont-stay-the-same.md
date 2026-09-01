@@ -19,7 +19,7 @@ At first, that can feel sad. Especially when you realize that caring about someo
 
 People change. Circumstances change. You change.
 
-The friendships that survive are usually not the ones that happened automatically. They're the ones someone cared enough to maintain. A message. A phone call. A visit. A conversation. A small effort repeated over time.
+The friendships that survive are the ones someone kept up. A message. A phone call. A visit. A message. A phone call. A visit. A conversation. A small effort repeated over time.
 
 Friendships don't usually disappear all at once. They fade quietly. One missed message. One cancelled plan. One busy month. One life change. Then another.
 

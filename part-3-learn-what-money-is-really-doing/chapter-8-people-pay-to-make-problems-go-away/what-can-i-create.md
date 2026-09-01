@@ -31,6 +31,6 @@ Creating something changes how you think. You don't have to become an entreprene
 
 Instead of only asking: "What can I get?" You start asking: "What can I contribute?"
 
-And that question has a way of opening doors you never noticed before. Because the ones who create value aren't looking at the world the same way everyone else is.
+And that question has a way of opening doors you never noticed before. Because people who create value look at the world differently.
 
 They're looking for something to build.

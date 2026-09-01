@@ -29,6 +29,6 @@ But you may never feel completely ready.
 
 Experience comes after trying. Confidence comes after action.
 
-The ones who move forward are rarely the ones who feel fully prepared. They're usually the ones who start anyway.
+You move forward by starting before you feel prepared.
 
 Because waiting doesn't create experience. Doing does.

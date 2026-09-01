@@ -29,6 +29,6 @@ That's why conflict feels uncomfortable. It forces people to face things they'd 
 
 But conflict itself isn't always the enemy. Some conflicts create understanding. Some create distance. The difference is rarely the conflict alone. It's how people choose to handle it. Do they listen? Do they attack? Do they try to understand? Do they try to win? Do they stay honest? Do they disappear?
 
-The strongest relationships I've seen aren't the ones where nobody disagrees. They're the ones where people can disagree and still protect the relationship. Honestly. Respectfully. Without trying to destroy each other.
+The strongest relationships I've seen let people disagree and still protect the relationship. Honestly, respectfully, without trying to destroy each other.
 
 Because conflict is part of every meaningful relationship. Learning how to move through it is part of learning how to stay close to people.

@@ -27,6 +27,6 @@ Not because they have bad memories. Because they don't want small responsibiliti
 
 Work teaches you this quickly. You're not trusted only because you're talented. You're trusted because what matters doesn't keep getting lost with you. Or at least because you build a system that helps you keep track of it.
 
-The ones others rely on aren't always the ones with the best memory. They're often the ones who write things down.
+People rely on the ones who write things down.
 
 Reliability is making sure the important things don't get lost.

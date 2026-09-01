@@ -51,7 +51,7 @@ If you keep telling yourself:
 
 Eventually, those thoughts stop feeling like opinions. They start feeling like facts. And facts change how you act.
 
-The people who recover from failure aren't always the most talented. They're usually the ones who refuse to let one bad day become their identity.
+The people who recover from failure refuse to let one bad day become their identity.
 
 Fail the test. Learn the lesson. Try again.
 

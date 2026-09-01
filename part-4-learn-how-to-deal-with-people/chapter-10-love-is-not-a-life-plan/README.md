@@ -31,7 +31,7 @@ Love can support your life. But it can't replace the work of building one. It ca
 
 A relationship can walk with you through those things. But it can't do the work for you.
 
-The healthiest relationships aren't usually built by two people trying to complete each other. They're built by two people who are both trying to grow. Two people with goals. Values. Standards. Lives of their own.
+The healthiest relationships are built by two people who are both trying to grow. Two people with goals. Values. Standards. Lives of their own.
 
 Love should add to your life. Not erase it. It should help you grow. Not make you disappear.
 
