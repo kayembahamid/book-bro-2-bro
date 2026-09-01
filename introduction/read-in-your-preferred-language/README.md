@@ -4,7 +4,7 @@ icon: book-circle-arrow-right
 
 # Read in Your Preferred language
 
-### Read This Book In The Language You Understand Best
+### Read These Pages In The Language You Understand Best
 
 Before you start reading, As you opened the link in your browser.
 

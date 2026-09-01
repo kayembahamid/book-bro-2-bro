@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-Keep This Book With You\
-Why This Book Exists
+Keep These Pages With You\
+Why These Pages Exist
 
 ### PART 1
 
@@ -57,6 +57,6 @@ Love Is Not A Life Plan
 
 Who Are You Becoming?
 
-Character is what remains&#x20;
+Character is what remains
 
 Final Letter<br>
