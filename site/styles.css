@@ -908,3 +908,19 @@ body::after {
 }
 
 [hidden] { display: none !important; }
+
+/* The counting statement, always visible, above the footer counter. */
+.end-privacy {
+  margin: 26px auto 0;
+  max-width: 62ch;
+  font-size: .84rem;
+  line-height: 1.6;
+  color: rgba(244, 235, 220, .40);
+}
+/* The shared counter reads --muted and --line, which this palette does not
+   define. Set them on the counter alone rather than inventing global tokens:
+   warm, to match the paper, not the cool grey the shared default assumes. */
+#visitors {
+  --muted: rgba(244, 235, 220, .46);
+  --line: rgba(244, 235, 220, .16);
+}

@@ -333,6 +333,24 @@
 
     try { localStorage.setItem(STORE, String(i)); } catch (e) {}
     if (history.replaceState) history.replaceState(null, "", "#n" + note.n);
+    countRead(i);
+  }
+
+  /* What the footer counter counts. setCurrent runs every time a note scrolls
+     past, which would be far more than is worth sending, so this reports only
+     twice: once when somebody starts reading, and once if they reach the last
+     note. The flags are in memory, so a browser that refuses storage still
+     sends each one only once. track.js decides whether anything is sent at
+     all, and sends nothing when the browser asks not to be tracked. */
+  var counted = {};
+  function countRead(i) {
+    once("started", "reading_started", {});
+    if (i === NOTES.length - 1) once("finished", "reading_finished", { notes: NOTES.length });
+  }
+  function once(flag, event, props) {
+    if (counted[flag]) return;
+    counted[flag] = true;
+    if (window.HC_TRACK) window.HC_TRACK(event, props);
   }
 
   function request() {
